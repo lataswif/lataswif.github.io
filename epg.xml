@@ -1,0 +1,2603 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tv generator-info-name="IndyTV">
+<channel id="bein1">
+<display-name>beIN Sport 1</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png" />
+</channel>
+<channel id="bein2">
+<display-name>beIN Sport 2</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png" />
+</channel>
+<channel id="useesport">
+<display-name>UseeSports</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_useesport_small.png" />
+</channel>
+<channel id="useesports2">
+<display-name>UseeSports2</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" />
+</channel>
+<channel id="champion1">
+<display-name>Champion TV 1</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" />
+</channel>
+<channel id="champion2">
+<display-name>Champion TV 2</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" />
+</channel>
+<channel id="foxsport1">
+<display-name>Fox Sport 1</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" />
+</channel>
+<channel id="foxsport2">
+<display-name>Fox Sport 2</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png" />
+</channel>
+<channel id="foxsport3">
+<display-name>Fox Sport 3</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png" />
+</channel>
+<channel id="natgeo">
+<display-name>Nat Geo</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png" />
+</channel>
+<channel id="natgeopeople">
+<display-name>Nat Geo People</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png" />
+</channel>
+<channel id="natgeowild">
+<display-name>Nat Geo Wild</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png" />
+</channel>
+<channel id="disco">
+<display-name>Discovery Channel</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_discovery_small.png" />
+</channel>
+<channel id="nba">
+<display-name>NBA</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_nba_small1.png" />
+</channel>
+<channel id="useeinfo">
+<display-name>Ruang Trampil</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_ruangtrampil_small.png" />
+</channel>
+<channel id="useephoto">
+<display-name>Usee Photo</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png" />
+</channel>
+<channel id="useeprime">
+<display-name>UseePrime</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_useeprime_small1.png" />
+</channel>
+<channel id="idku">
+<display-name>Idku</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_idku2_small.png" />
+</channel>
+<channel id="indishopping">
+<display-name>Indihome Shopping</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_indishopping_small.png" />
+</channel>
+<channel id="tvri">
+<display-name>TVRI</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png" />
+</channel>
+<channel id="indosiar">
+<display-name>Indosiar</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" />
+</channel>
+<channel id="jitv">
+<display-name>JITV</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_jitv_small.png" />
+</channel>
+<channel id="kompastv">
+<display-name>Kompas TV</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png" />
+</channel>
+<channel id="metrotv">
+<display-name>Metro TV</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png" />
+</channel>
+<channel id="net">
+<display-name>Net.</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_net_small1.png" />
+</channel>
+<channel id="rtv">
+<display-name>Rajawali TV</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png" />
+</channel>
+<channel id="rrinet">
+<display-name>RRI NET</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_rri_small1.png" />
+</channel>
+<channel id="sctv">
+<display-name>SCTV</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" />
+</channel>
+<channel id="trans7">
+<display-name>Trans7</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" />
+</channel>
+<channel id="transtv">
+<display-name>TransTV</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" />
+</channel>
+<channel id="mncshop">
+<display-name>M Shop</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_mshop_small.png" />
+</channel>
+<channel id="antara">
+<display-name>Antara</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_antara_small1.png" />
+</channel>
+<channel id="idx">
+<display-name>IDX</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_idx_small.png" />
+</channel>
+<channel id="babyfirst">
+<display-name>Baby First</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" />
+</channel>
+<channel id="balitv">
+<display-name>Bali TV</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_balitv_small1.png" />
+</channel>
+<channel id="beritasatu">
+<display-name>Berita Satu</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png" />
+</channel>
+<channel id="cdrama">
+<display-name>Citra Drama</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_citradrama_small.png" />
+</channel>
+<channel id="ducktv">
+<display-name>Duck TV</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_duck_small1.png" />
+</channel>
+<channel id="dunialain">
+<display-name>Dunia Lain</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_dunialain_small.png" />
+</channel>
+<channel id="dwtv">
+<display-name>DW (English)</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_dwtv_small.png" />
+</channel>
+<channel id="france24">
+<display-name>France 24</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_france24_small.png" />
+</channel>
+<channel id="horee">
+<display-name>Horee</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_horee_small.png" />
+</channel>
+<channel id="imc">
+<display-name>IMC</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_imc_small.png" />
+</channel>
+<channel id="jaktv">
+<display-name>JakTV</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_jaktv_small1.png" />
+</channel>
+<channel id="jtv">
+<display-name>JTV</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_jtv_small1.png" />
+</channel>
+<channel id="muitv">
+<display-name>MUI TV</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_tvmui_small.png" />
+</channel>
+<channel id="mytv">
+<display-name>MyTV</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_mytv_small.png" />
+</channel>
+<channel id="citradangdut">
+<display-name>Citra Dangdut</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_citradangdut_small.png" />
+</channel>
+<channel id="tvedukasi">
+<display-name>TV Edukasi</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_tvedukasi_small1.png" />
+</channel>
+<channel id="tv9">
+<display-name>TV9 NU</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_tv9_small.png" />
+</channel>
+<channel id="uchannel">
+<display-name>UChannel</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_uchannel_small1.png" />
+</channel>
+<channel id="aljazeera">
+<display-name>Aljazeera</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_aljazeera_small1.png" />
+</channel>
+<channel id="alquran">
+<display-name>AlQuran Kareem</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_alquran_small1.png" />
+</channel>
+<channel id="arirang">
+<display-name>Arirang</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_arirang_small.png" />
+</channel>
+<channel id="tawaftv">
+<display-name>Tawaf TV</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_tawaftv_small.png" />
+</channel>
+<channel id="mqtv">
+<display-name>MQTV</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_mqtv_small1.png" />
+</channel>
+<channel id="mtatv">
+<display-name>MTATV</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_mtatv_small1.png" />
+</channel>
+<channel id="muhammadiyahtv">
+<display-name>Muhammadiyah TV</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_muhammadiyahtv_small1.png" />
+</channel>
+<channel id="rodjatv">
+<display-name>Rodja TV</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_rodjatv_small1.png" />
+</channel>
+<channel id="axn">
+<display-name>AXN</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_axn_small.png" />
+</channel>
+<channel id="tvn">
+<display-name>TVN</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" />
+</channel>
+<channel id="kbsworld">
+<display-name>KBS World</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_kbsworld_small.png" />
+</channel>
+<channel id="abcaustralia">
+<display-name>ABC Australia</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_abcaustralia_small.png" />
+</channel>
+<channel id="bioskopindonesia">
+<display-name>Bioskop Indonesia</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png" />
+</channel>
+<channel id="chinesedrama">
+<display-name>Chinese Drama</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_chinesedrama_small.png" />
+</channel>
+<channel id="cnnindonesia">
+<display-name>CNN Indonesia</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png" />
+</channel>
+<channel id="daaitv">
+<display-name>Daai TV</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_daaitv_small1.png" />
+</channel>
+<channel id="duniaanak">
+<display-name>Dunia anak</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png" />
+</channel>
+<channel id="eatgo">
+<display-name>Eat &amp; Go</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_eatgo_small1.png" />
+</channel>
+<channel id="flik">
+<display-name>Flik</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_flik_small1.png" />
+</channel>
+<channel id="galaxy">
+<display-name>Galaxy</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png" />
+</channel>
+<channel id="galaxypremium">
+<display-name>Galaxy Premium</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png" />
+</channel>
+<channel id="thrill">
+<display-name>Thrill</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" />
+</channel>
+<channel id="insert">
+<display-name>Insert</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_insert_small1.png" />
+</channel>
+<channel id="kix">
+<display-name>Kix</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_kix_small.png" />
+</channel>
+<channel id="pramborstv">
+<display-name>Prambors</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_pramborstv_small1.png" />
+</channel>
+<channel id="wakuwaku">
+<display-name>Waku Waku Japan</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_wakuwaku_small.png" />
+</channel>
+<channel id="warner">
+<display-name>Warner</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_warner_small.png" />
+</channel>
+<channel id="aniplus">
+<display-name>ANIPlus</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" />
+</channel>
+<channel id="bloomberg">
+<display-name>Bloomberg</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_bloomberg_small1.png" />
+</channel>
+<channel id="cctv4">
+<display-name>CCTV4</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_cctv4_small1.png" />
+</channel>
+<channel id="cgtndocumentary">
+<display-name>CGTN Documentary</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_cgtndocumentary_small1.png" />
+</channel>
+<channel id="lingua">
+<display-name>Lingua</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_lingua_small.png" />
+</channel>
+<channel id="davinci">
+<display-name>Da Vinci Learning</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_davinci_small1.png" />
+</channel>
+<channel id="dreamworks">
+<display-name>Dreamworks</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png" />
+</channel>
+<channel id="mykids">
+<display-name>My Kids</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_mykids_small.png" />
+</channel>
+<channel id="egg">
+<display-name>eGG Network</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_egg_small1.png" />
+</channel>
+<channel id="euronews">
+<display-name>Euronews</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_euronews_small1.png" />
+</channel>
+<channel id="cnbcindonesia">
+<display-name>CNBC Indonesia</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_cnbcid_small.png" />
+</channel>
+<channel id="trtworld">
+<display-name>TRT World</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_trtworld_small.png" />
+</channel>
+<channel id="fashionone">
+<display-name>Fashion One</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_fashionone_small1.png" />
+</channel>
+<channel id="fashiontv">
+<display-name>FashionTV</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_fashiontv_small1.png" />
+</channel>
+<channel id="kplus">
+<display-name>Kplus</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_kplus_small1.png" />
+</channel>
+<channel id="nhkworld">
+<display-name>NHK World Japan</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_nhkworld_small.png" />
+</channel>
+<channel id="tv5monde">
+<display-name>TV5Monde</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_tv5monde_small1.png" />
+</channel>
+<channel id="zbioskop">
+<display-name>ZBioskop</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png" />
+</channel>
+<channel id="afc">
+<display-name>Asian Food Network</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_afc_small.png" />
+</channel>
+<channel id="eljohn">
+<display-name>El John TV</display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_eljhon_small.png" />
+</channel>
+<programme start="20200923000000 +0700" stop="20200923003000 +0700" channel="aljazeera">
+<title>News (L)</title>
+</programme>
+<programme start="20200923003000 +0700" stop="20200923010000 +0700" channel="aljazeera">
+<title>Inside Story</title>
+</programme>
+<programme start="20200923010000 +0700" stop="20200923020000 +0700" channel="aljazeera">
+<title>NewsHour</title>
+</programme>
+<programme start="20200923020000 +0700" stop="20200923023000 +0700" channel="aljazeera">
+<title>News (L)</title>
+</programme>
+<programme start="20200923023000 +0700" stop="20200923030000 +0700" channel="aljazeera">
+<title>The Stream</title>
+</programme>
+<programme start="20200923030000 +0700" stop="20200923040000 +0700" channel="aljazeera">
+<title>Al Jazeera World: A Hard Road</title>
+</programme>
+<programme start="20200923040000 +0700" stop="20200923050000 +0700" channel="aljazeera">
+<title>NewsHour</title>
+</programme>
+<programme start="20200923050000 +0700" stop="20200923053000 +0700" channel="aljazeera">
+<title>News (L)</title>
+</programme>
+<programme start="20200923053000 +0700" stop="20200923060000 +0700" channel="aljazeera">
+<title>Women Make Science: RoboGal</title>
+</programme>
+<programme start="20200923060000 +0700" stop="20200923063000 +0700" channel="aljazeera">
+<title>News (L)</title>
+</programme>
+<programme start="20200923063000 +0700" stop="20200923070000 +0700" channel="aljazeera">
+<title>101 East: Cannabis Revolution</title>
+</programme>
+<programme start="20200923070000 +0700" stop="20200923073000 +0700" channel="aljazeera">
+<title>News (L)</title>
+</programme>
+<programme start="20200923073000 +0700" stop="20200923080000 +0700" channel="aljazeera">
+<title>Inside Story</title>
+</programme>
+<programme start="20200923080000 +0700" stop="20200923090000 +0700" channel="aljazeera">
+<title>Ocean's Monopoly</title>
+</programme>
+<programme start="20200923090000 +0700" stop="20200923093000 +0700" channel="aljazeera">
+<title>News (L)</title>
+</programme>
+<programme start="20200923093000 +0700" stop="20200923100000 +0700" channel="aljazeera">
+<title>Rewind: Uncomfortably Numb</title>
+</programme>
+<programme start="20200923100000 +0700" stop="20200923103000 +0700" channel="aljazeera">
+<title>News (L)</title>
+</programme>
+<programme start="20200923103000 +0700" stop="20200923110000 +0700" channel="aljazeera">
+<title>Viewfinder: Cuba Calling</title>
+</programme>
+<programme start="20200923110000 +0700" stop="20200923113000 +0700" channel="aljazeera">
+<title>News (L)</title>
+</programme>
+<programme start="20200923113000 +0700" stop="20200923120000 +0700" channel="aljazeera">
+<title>The Stream</title>
+</programme>
+<programme start="20200923120000 +0700" stop="20200923123000 +0700" channel="aljazeera">
+<title>News (L)</title>
+</programme>
+<programme start="20200923123000 +0700" stop="20200923130000 +0700" channel="aljazeera">
+<title>The Listening Post</title>
+</programme>
+<programme start="20200923130000 +0700" stop="20200923140000 +0700" channel="aljazeera">
+<title>Peace &amp; War: View From Russia</title>
+</programme>
+<programme start="20200923140000 +0700" stop="20200923143000 +0700" channel="aljazeera">
+<title>News (L)</title>
+</programme>
+<programme start="20200923143000 +0700" stop="20200923150000 +0700" channel="aljazeera">
+<title>Inside Story</title>
+</programme>
+<programme start="20200923150000 +0700" stop="20200923153000 +0700" channel="aljazeera">
+<title>News (L)</title>
+</programme>
+<programme start="20200923153000 +0700" stop="20200923160000 +0700" channel="aljazeera">
+<title>The Stream</title>
+</programme>
+<programme start="20200923160000 +0700" stop="20200923163000 +0700" channel="aljazeera">
+<title>News (L)</title>
+</programme>
+<programme start="20200923163000 +0700" stop="20200923170000 +0700" channel="aljazeera">
+<title>Women Make Science: RoboGal</title>
+</programme>
+<programme start="20200923170000 +0700" stop="20200923180000 +0700" channel="aljazeera">
+<title>NewsHour</title>
+</programme>
+<programme start="20200923180000 +0700" stop="20200923183000 +0700" channel="aljazeera">
+<title>News (L)</title>
+</programme>
+<programme start="20200923183000 +0700" stop="20200923190000 +0700" channel="aljazeera">
+<title>Inside Story</title>
+</programme>
+<programme start="20200923190000 +0700" stop="20200923200000 +0700" channel="aljazeera">
+<title>Al Jazeera World: A Hard Road</title>
+</programme>
+<programme start="20200923200000 +0700" stop="20200923210000 +0700" channel="aljazeera">
+<title>NewsHour</title>
+</programme>
+<programme start="20200923210000 +0700" stop="20200923213000 +0700" channel="aljazeera">
+<title>News (L)</title>
+</programme>
+<programme start="20200923213000 +0700" stop="20200923220000 +0700" channel="aljazeera">
+<title>The Stream</title>
+</programme>
+<programme start="20200923220000 +0700" stop="20200923230000 +0700" channel="aljazeera">
+<title>NewsHour</title>
+</programme>
+<programme start="20200923230000 +0700" stop="20200923233000 +0700" channel="aljazeera">
+<title>News (L)</title>
+</programme>
+<programme start="20200923233000 +0700" stop="20200924000000 +0700" channel="aljazeera">
+<title>Witness: Mortician Of Manila</title>
+</programme>
+<programme start="20200923000000 +0700" stop="20200923003000 +0700" channel="antv">
+<title>Jejak Kriminal</title>
+</programme>
+<programme start="20200923003000 +0700" stop="20200923010000 +0700" channel="antv">
+<title>Berkah Home Shopping</title>
+</programme>
+<programme start="20200923010000 +0700" stop="20200923023000 +0700" channel="antv">
+<title>Garis Tangan</title>
+</programme>
+<programme start="20200923023000 +0700" stop="20200923033000 +0700" channel="antv">
+<title>Karma</title>
+</programme>
+<programme start="20200923033000 +0700" stop="20200923043000 +0700" channel="antv">
+<title>Kecil-Kecil Mikir Jadi Manten</title>
+</programme>
+<programme start="20200923043000 +0700" stop="20200923053000 +0700" channel="antv">
+<title>Jinny Oh Jinny Datang Lagi</title>
+</programme>
+<programme start="20200923053000 +0700" stop="20200923063000 +0700" channel="antv">
+<title>Jinny Oh Jinny</title>
+</programme>
+<programme start="20200923063000 +0700" stop="20200923073000 +0700" channel="antv">
+<title>Shiva</title>
+</programme>
+<programme start="20200923073000 +0700" stop="20200923080000 +0700" channel="antv">
+<title>Si AA</title>
+</programme>
+<programme start="20200923080000 +0700" stop="20200923100000 +0700" channel="antv">
+<title>Saloni</title>
+</programme>
+<programme start="20200923100000 +0700" stop="20200923113000 +0700" channel="antv">
+<title>Chandrakanta</title>
+</programme>
+<programme start="20200923113000 +0700" stop="20200923133000 +0700" channel="antv">
+<title>Jodha Akbar</title>
+</programme>
+<programme start="20200923133000 +0700" stop="20200923150000 +0700" channel="antv">
+<title>Mahabharata</title>
+</programme>
+<programme start="20200923150000 +0700" stop="20200923173000 +0700" channel="antv">
+<title>Chandragupta Maurya</title>
+</programme>
+<programme start="20200923173000 +0700" stop="20200923190000 +0700" channel="antv">
+<title>Aku Hanya Ingin Dicintai</title>
+</programme>
+<programme start="20200923190000 +0700" stop="20200923220000 +0700" channel="antv">
+<title>Bawang Putih Berkulit Merah</title>
+</programme>
+<programme start="20200923220000 +0700" stop="20200923231500 +0700" channel="antv">
+<title>Belenggu Dua Hati</title>
+</programme>
+<programme start="20200923231500 +0700" stop="20200924000000 +0700" channel="antv">
+<title>Inayah</title>
+</programme>
+<programme start="20200923000000 +0700" stop="20200923013000 +0700" channel="bein1">
+<title>Viva La Liga 2020/21 (L)</title>
+</programme>
+<programme start="20200923013000 +0700" stop="20200923032000 +0700" channel="bein1">
+<title>Ligue 1 2020/21: REN Vs MON</title>
+</programme>
+<programme start="20200923032000 +0700" stop="20200923051000 +0700" channel="bein1">
+<title>La Liga 2020/21: GET Vs OSA</title>
+</programme>
+<programme start="20200923051000 +0700" stop="20200923070000 +0700" channel="bein1">
+<title>La Liga 2020/21: HUE Vs CAD</title>
+</programme>
+<programme start="20200923070000 +0700" stop="20200923091500 +0700" channel="bein1">
+<title>Arsenal TV 2020/21: ARS Vs WHU</title>
+</programme>
+<programme start="20200923091500 +0700" stop="20200923110500 +0700" channel="bein1">
+<title>Ligue 1 2020/21: NAN Vs ASE</title>
+</programme>
+<programme start="20200923110500 +0700" stop="20200923113500 +0700" channel="bein1">
+<title>Le Mans Cup Highlights 2020</title>
+</programme>
+<programme start="20200923113500 +0700" stop="20200923132500 +0700" channel="bein1">
+<title>La Liga 2020/21: SOC Vs RMA</title>
+</programme>
+<programme start="20200923132500 +0700" stop="20200923144000 +0700" channel="bein1">
+<title>Supercars Championship 2020</title>
+</programme>
+<programme start="20200923144000 +0700" stop="20200923160500 +0700" channel="bein1">
+<title>Supercars Championship 2020</title>
+</programme>
+<programme start="20200923160500 +0700" stop="20200923173000 +0700" channel="bein1">
+<title>Supercars Championship 2020</title>
+</programme>
+<programme start="20200923173000 +0700" stop="20200923180000 +0700" channel="bein1">
+<title>MLS Show 2020</title>
+</programme>
+<programme start="20200923180000 +0700" stop="20200923183000 +0700" channel="bein1">
+<title>Mini Match Serie A: JUV Vs SAM</title>
+</programme>
+<programme start="20200923183000 +0700" stop="20200923190000 +0700" channel="bein1">
+<title>Serie A Full Impact, Ep 1</title>
+</programme>
+<programme start="20200923190000 +0700" stop="20200923193000 +0700" channel="bein1">
+<title>This Is Paris 2020/21, Ep 3</title>
+</programme>
+<programme start="20200923193000 +0700" stop="20200923200000 +0700" channel="bein1">
+<title>La Liga World 2020/21, Ep 3</title>
+</programme>
+<programme start="20200923200000 +0700" stop="20200923210000 +0700" channel="bein1">
+<title>DTM HL 2020: Nurburgring</title>
+</programme>
+<programme start="20200923210000 +0700" stop="20200923230000 +0700" channel="bein1">
+<title>Ligue 1 2020/21: NIC Vs PSG</title>
+</programme>
+<programme start="20200923230000 +0700" stop="20200924000000 +0700" channel="bein1">
+<title>Serie A HL Show 2020/21, Ep 1</title>
+</programme>
+<programme start="20200923001500 +0700" stop="20200923020000 +0700" channel="bein2">
+<title>Serie A 2020/21: PAR Vs NAP</title>
+</programme>
+<programme start="20200923020000 +0700" stop="20200923025500 +0700" channel="bein2">
+<title>Serie A Highlights Show 2020/21</title>
+</programme>
+<programme start="20200923025500 +0700" stop="20200923044500 +0700" channel="bein2">
+<title>MLS 2020: RSL Vs VAN</title>
+</programme>
+<programme start="20200923044500 +0700" stop="20200923063000 +0700" channel="bein2">
+<title>MLS 2020: LAG Vs CRA</title>
+</programme>
+<programme start="20200923063000 +0700" stop="20200923070000 +0700" channel="bein2">
+<title>Mini Match Ligue 1: LYO Vs NIM</title>
+</programme>
+<programme start="20200923070000 +0700" stop="20200923080000 +0700" channel="bein2">
+<title>Ferrari Challenge HL 2020</title>
+</programme>
+<programme start="20200923080000 +0700" stop="20200923090000 +0700" channel="bein2">
+<title>La Liga 2 Highlights 2020/21</title>
+</programme>
+<programme start="20200923090000 +0700" stop="20200923105000 +0700" channel="bein2">
+<title>Serie A 2020/21: FIO Vs TOR</title>
+</programme>
+<programme start="20200923105000 +0700" stop="20200923112000 +0700" channel="bein2">
+<title>Mini Match La Liga: RSO Vs RMA</title>
+</programme>
+<programme start="20200923112000 +0700" stop="20200923115000 +0700" channel="bein2">
+<title>Mini Match La Liga: CEL Vs VAL</title>
+</programme>
+<programme start="20200923115000 +0700" stop="20200923134000 +0700" channel="bein2">
+<title>Serie A 2020/21: SAS Vs CAG</title>
+</programme>
+<programme start="20200923134000 +0700" stop="20200923153000 +0700" channel="bein2">
+<title>Ligue 1 2020/21: LYO Vs NIM</title>
+</programme>
+<programme start="20200923153000 +0700" stop="20200923172000 +0700" channel="bein2">
+<title>Serie A 2020/21: JUV Vs SAM</title>
+</programme>
+<programme start="20200923172000 +0700" stop="20200923191000 +0700" channel="bein2">
+<title>Ligue 1 2020/21: MAR Vs LIL</title>
+</programme>
+<programme start="20200923191000 +0700" stop="20200923210000 +0700" channel="bein2">
+<title>Serie A 2020/21: VER Vs ASR</title>
+</programme>
+<programme start="20200923210000 +0700" stop="20200923230000 +0700" channel="bein2">
+<title>Liverpool TV: CHE Vs LIV</title>
+</programme>
+<programme start="20200923230000 +0700" stop="20200924000000 +0700" channel="bein2">
+<title>LFC Trending 2020/21, Ep 2</title>
+</programme>
+<programme start="20200923000000 +0700" stop="20200923010000 +0700" channel="beritasatu">
+<title>BeritaSatu Highlights</title>
+</programme>
+<programme start="20200923010000 +0700" stop="20200923013000 +0700" channel="beritasatu">
+<title>Money Report</title>
+</programme>
+<programme start="20200923013000 +0700" stop="20200923023000 +0700" channel="beritasatu">
+<title>Connect 360</title>
+</programme>
+<programme start="20200923023000 +0700" stop="20200923033000 +0700" channel="beritasatu">
+<title>BeritaSatu Highlights</title>
+</programme>
+<programme start="20200923033000 +0700" stop="20200923043000 +0700" channel="beritasatu">
+<title>Hot Economy</title>
+</programme>
+<programme start="20200923043000 +0700" stop="20200923050000 +0700" channel="beritasatu">
+<title>Money Report</title>
+</programme>
+<programme start="20200923050000 +0700" stop="20200923060000 +0700" channel="beritasatu">
+<title>BeritaSatu Highlights</title>
+</programme>
+<programme start="20200923060000 +0700" stop="20200923070000 +0700" channel="beritasatu">
+<title>Good Morning Jakarta</title>
+</programme>
+<programme start="20200923070000 +0700" stop="20200923070500 +0700" channel="beritasatu">
+<title>News Update</title>
+</programme>
+<programme start="20200923070500 +0700" stop="20200923080000 +0700" channel="beritasatu">
+<title>Good Morning Jakarta</title>
+</programme>
+<programme start="20200923080000 +0700" stop="20200923080500 +0700" channel="beritasatu">
+<title>News Update</title>
+</programme>
+<programme start="20200923080500 +0700" stop="20200923083000 +0700" channel="beritasatu">
+<title>Business Round Up</title>
+</programme>
+<programme start="20200923083000 +0700" stop="20200923090000 +0700" channel="beritasatu">
+<title>IDX Opening Bell</title>
+</programme>
+<programme start="20200923090000 +0700" stop="20200923090500 +0700" channel="beritasatu">
+<title>News Update</title>
+</programme>
+<programme start="20200923090500 +0700" stop="20200923093000 +0700" channel="beritasatu">
+<title>IDX Opening Bell</title>
+</programme>
+<programme start="20200923093000 +0700" stop="20200923100000 +0700" channel="beritasatu">
+<title>Corporate Action</title>
+</programme>
+<programme start="20200923100000 +0700" stop="20200923100500 +0700" channel="beritasatu">
+<title>News Update</title>
+</programme>
+<programme start="20200923100500 +0700" stop="20200923103000 +0700" channel="beritasatu">
+<title>Corporate Action</title>
+</programme>
+<programme start="20200923103000 +0700" stop="20200923110000 +0700" channel="beritasatu">
+<title>Indepth</title>
+</programme>
+<programme start="20200923110000 +0700" stop="20200923110500 +0700" channel="beritasatu">
+<title>News Update</title>
+</programme>
+<programme start="20200923110500 +0700" stop="20200923120000 +0700" channel="beritasatu">
+<title>News On The Spot</title>
+</programme>
+<programme start="20200923120000 +0700" stop="20200923120500 +0700" channel="beritasatu">
+<title>News Update</title>
+</programme>
+<programme start="20200923120500 +0700" stop="20200923130000 +0700" channel="beritasatu">
+<title>News On The Spot</title>
+</programme>
+<programme start="20200923130000 +0700" stop="20200923130500 +0700" channel="beritasatu">
+<title>News Update</title>
+</programme>
+<programme start="20200923130500 +0700" stop="20200923140000 +0700" channel="beritasatu">
+<title>Lunch Talk</title>
+</programme>
+<programme start="20200923140000 +0700" stop="20200923140500 +0700" channel="beritasatu">
+<title>News Update</title>
+</programme>
+<programme start="20200923140500 +0700" stop="20200923143000 +0700" channel="beritasatu">
+<title>Fakta Data</title>
+</programme>
+<programme start="20200923143000 +0700" stop="20200923150000 +0700" channel="beritasatu">
+<title>Closing Market</title>
+</programme>
+<programme start="20200923150000 +0700" stop="20200923150500 +0700" channel="beritasatu">
+<title>News Update</title>
+</programme>
+<programme start="20200923150500 +0700" stop="20200923153000 +0700" channel="beritasatu">
+<title>Closing Market</title>
+</programme>
+<programme start="20200923153000 +0700" stop="20200923160000 +0700" channel="beritasatu">
+<title>Indepth</title>
+</programme>
+<programme start="20200923160000 +0700" stop="20200923160500 +0700" channel="beritasatu">
+<title>News Update</title>
+</programme>
+<programme start="20200923160500 +0700" stop="20200923163000 +0700" channel="beritasatu">
+<title>BeritaSatu Highlights</title>
+</programme>
+<programme start="20200923163000 +0700" stop="20200923170000 +0700" channel="beritasatu">
+<title>Prime Time</title>
+</programme>
+<programme start="20200923170000 +0700" stop="20200923170500 +0700" channel="beritasatu">
+<title>News Update</title>
+</programme>
+<programme start="20200923170500 +0700" stop="20200923173000 +0700" channel="beritasatu">
+<title>Prime Time</title>
+</programme>
+<programme start="20200923173000 +0700" stop="20200923180000 +0700" channel="beritasatu">
+<title>Hot Economy</title>
+</programme>
+<programme start="20200923180000 +0700" stop="20200923180500 +0700" channel="beritasatu">
+<title>News Update</title>
+</programme>
+<programme start="20200923180500 +0700" stop="20200923183000 +0700" channel="beritasatu">
+<title>Hot Economy</title>
+</programme>
+<programme start="20200923183000 +0700" stop="20200923190000 +0700" channel="beritasatu">
+<title>Connect 360</title>
+</programme>
+<programme start="20200923190000 +0700" stop="20200923190500 +0700" channel="beritasatu">
+<title>News Update</title>
+</programme>
+<programme start="20200923190500 +0700" stop="20200923193000 +0700" channel="beritasatu">
+<title>Connect 360</title>
+</programme>
+<programme start="20200923193000 +0700" stop="20200923200000 +0700" channel="beritasatu">
+<title>News Buzz</title>
+</programme>
+<programme start="20200923200000 +0700" stop="20200923200500 +0700" channel="beritasatu">
+<title>News Update</title>
+</programme>
+<programme start="20200923200500 +0700" stop="20200923210000 +0700" channel="beritasatu">
+<title>CEO Talk</title>
+</programme>
+<programme start="20200923210000 +0700" stop="20200923210500 +0700" channel="beritasatu">
+<title>News Update</title>
+</programme>
+<programme start="20200923210500 +0700" stop="20200923213000 +0700" channel="beritasatu">
+<title>Money Report</title>
+</programme>
+<programme start="20200923213000 +0700" stop="20200923220000 +0700" channel="beritasatu">
+<title>Prime Time</title>
+</programme>
+<programme start="20200923220000 +0700" stop="20200923220500 +0700" channel="beritasatu">
+<title>News Update</title>
+</programme>
+<programme start="20200923220500 +0700" stop="20200924000000 +0700" channel="beritasatu">
+<title>Prime Time</title>
+</programme>
+<programme start="20200923002500 +0700" stop="20200923011500 +0700" channel="disco">
+<title>Mysterious Planet S1, Ep 1</title>
+</programme>
+<programme start="20200923011500 +0700" stop="20200923020500 +0700" channel="disco">
+<title>Down To Earth S1, Ep 2</title>
+</programme>
+<programme start="20200923020500 +0700" stop="20200923023000 +0700" channel="disco">
+<title>How Do They Do It? S12, Ep 11</title>
+</programme>
+<programme start="20200923023000 +0700" stop="20200923025500 +0700" channel="disco">
+<title>How It's Made S14: Mabe Pearls</title>
+</programme>
+<programme start="20200923025500 +0700" stop="20200923034500 +0700" channel="disco">
+<title>Man Vs Wild S5: N. Australia</title>
+</programme>
+<programme start="20200923034500 +0700" stop="20200923043500 +0700" channel="disco">
+<title>Fast N' Loud S4: Del Camino</title>
+</programme>
+<programme start="20200923043500 +0700" stop="20200923053500 +0700" channel="disco">
+<title>Mysterious Planet S1, Ep 1</title>
+</programme>
+<programme start="20200923053500 +0700" stop="20200923060000 +0700" channel="disco">
+<title>How Do They Do It? S12, Ep 11</title>
+</programme>
+<programme start="20200923060000 +0700" stop="20200923062500 +0700" channel="disco">
+<title>How It's Made S14: Mabe Pearls</title>
+</programme>
+<programme start="20200923062500 +0700" stop="20200923071500 +0700" channel="disco">
+<title>Man Vs Wild S5: N. Australia</title>
+</programme>
+<programme start="20200923071500 +0700" stop="20200923080500 +0700" channel="disco">
+<title>Fast N' Loud S4: Del Camino</title>
+</programme>
+<programme start="20200923080500 +0700" stop="20200923085500 +0700" channel="disco">
+<title>Expedition Unknown: Snake Kings</title>
+</programme>
+<programme start="20200923085500 +0700" stop="20200923092000 +0700" channel="disco">
+<title>How Do They Do It? S12, Ep 12</title>
+</programme>
+<programme start="20200923092000 +0700" stop="20200923094500 +0700" channel="disco">
+<title>How It's Made S14: Palm Oil</title>
+</programme>
+<programme start="20200923094500 +0700" stop="20200923103500 +0700" channel="disco">
+<title>Man Vs Wild S5: N. Australia</title>
+</programme>
+<programme start="20200923103500 +0700" stop="20200923112500 +0700" channel="disco">
+<title>Into The Wild: Akshay Kumar</title>
+</programme>
+<programme start="20200923112500 +0700" stop="20200923121500 +0700" channel="disco">
+<title>Into The Wild: Rajinikanth</title>
+</programme>
+<programme start="20200923121500 +0700" stop="20200923130500 +0700" channel="disco">
+<title>Man Vs Wild: PM Modi</title>
+</programme>
+<programme start="20200923130500 +0700" stop="20200923135500 +0700" channel="disco">
+<title>Mysterious Planet S1, Ep 1</title>
+</programme>
+<programme start="20200923135500 +0700" stop="20200923144500 +0700" channel="disco">
+<title>Down To Earth S1, Ep 2</title>
+</programme>
+<programme start="20200923144500 +0700" stop="20200923153500 +0700" channel="disco">
+<title>American Chopper: Memories</title>
+</programme>
+<programme start="20200923153500 +0700" stop="20200923162500 +0700" channel="disco">
+<title>American Chopper: The Middle</title>
+</programme>
+<programme start="20200923162500 +0700" stop="20200923171500 +0700" channel="disco">
+<title>American Chopper: Teutel Recall</title>
+</programme>
+<programme start="20200923171500 +0700" stop="20200923181000 +0700" channel="disco">
+<title>Man Vs Wild S5: Extreme Desert</title>
+</programme>
+<programme start="20200923181000 +0700" stop="20200923190500 +0700" channel="disco">
+<title>Fast N' Loud S4: Opening Bid</title>
+</programme>
+<programme start="20200923190500 +0700" stop="20200923200000 +0700" channel="disco">
+<title>Expedition Unknown: Snake Kings</title>
+</programme>
+<programme start="20200923200000 +0700" stop="20200923205500 +0700" channel="disco">
+<title>Weather Top 10: Extreme Jobs</title>
+</programme>
+<programme start="20200923205500 +0700" stop="20200923215000 +0700" channel="disco">
+<title>Hacking The Wild: Black Bayou</title>
+</programme>
+<programme start="20200923215000 +0700" stop="20200923224500 +0700" channel="disco">
+<title>World's Biggest Ship S1, Ep 3</title>
+</programme>
+<programme start="20200923224500 +0700" stop="20200923233500 +0700" channel="disco">
+<title>Expedition Unknown: Snake Kings</title>
+</programme>
+<programme start="20200923233500 +0700" stop="20200924000000 +0700" channel="disco">
+<title>Weather Top 10: Extreme Jobs</title>
+</programme>
+<programme start="20200923000000 +0700" stop="20200923001500 +0700" channel="dwtv">
+<title>DW News</title>
+</programme>
+<programme start="20200923001500 +0700" stop="20200923003000 +0700" channel="dwtv">
+<title>Business: Africa</title>
+</programme>
+<programme start="20200923003000 +0700" stop="20200923004500 +0700" channel="dwtv">
+<title>DW News: Africa</title>
+</programme>
+<programme start="20200923004500 +0700" stop="20200923010000 +0700" channel="dwtv">
+<title>Arts And Culture: News</title>
+</programme>
+<programme start="20200923010000 +0700" stop="20200923011500 +0700" channel="dwtv">
+<title>DW News</title>
+</programme>
+<programme start="20200923011500 +0700" stop="20200923013000 +0700" channel="dwtv">
+<title>Business: Africa</title>
+</programme>
+<programme start="20200923013000 +0700" stop="20200923014500 +0700" channel="dwtv">
+<title>DW News: Africa</title>
+</programme>
+<programme start="20200923014500 +0700" stop="20200923020000 +0700" channel="dwtv">
+<title>Arts And Culture: News</title>
+</programme>
+<programme start="20200923020000 +0700" stop="20200923023000 +0700" channel="dwtv">
+<title>DW News</title>
+</programme>
+<programme start="20200923023000 +0700" stop="20200923030000 +0700" channel="dwtv">
+<title>Kick Off!: The Bundesliga HL</title>
+</programme>
+<programme start="20200923030000 +0700" stop="20200923033000 +0700" channel="dwtv">
+<title>DW News</title>
+</programme>
+<programme start="20200923033000 +0700" stop="20200923040000 +0700" channel="dwtv">
+<title>The Day: News In Review</title>
+</programme>
+<programme start="20200923040000 +0700" stop="20200923041500 +0700" channel="dwtv">
+<title>DW News</title>
+</programme>
+<programme start="20200923041500 +0700" stop="20200923043000 +0700" channel="dwtv">
+<title>Business: News</title>
+</programme>
+<programme start="20200923043000 +0700" stop="20200923044500 +0700" channel="dwtv">
+<title>DW News: Africa</title>
+</programme>
+<programme start="20200923044500 +0700" stop="20200923050000 +0700" channel="dwtv">
+<title>Arts And Culture: News</title>
+</programme>
+<programme start="20200923050000 +0700" stop="20200923050200 +0700" channel="dwtv">
+<title>DW News</title>
+</programme>
+<programme start="20200923050200 +0700" stop="20200923053000 +0700" channel="dwtv">
+<title>The Day: News In Review</title>
+</programme>
+<programme start="20200923053000 +0700" stop="20200923060000 +0700" channel="dwtv">
+<title>Global 3000: Globalization</title>
+</programme>
+<programme start="20200923060000 +0700" stop="20200923061500 +0700" channel="dwtv">
+<title>DW News</title>
+</programme>
+<programme start="20200923061500 +0700" stop="20200923063000 +0700" channel="dwtv">
+<title>DW News: Africa</title>
+</programme>
+<programme start="20200923063000 +0700" stop="20200923064500 +0700" channel="dwtv">
+<title>Business: News</title>
+</programme>
+<programme start="20200923064500 +0700" stop="20200923070000 +0700" channel="dwtv">
+<title>Arts And Culture: News</title>
+</programme>
+<programme start="20200923070000 +0700" stop="20200923070200 +0700" channel="dwtv">
+<title>DW News</title>
+</programme>
+<programme start="20200923070200 +0700" stop="20200923073000 +0700" channel="dwtv">
+<title>The Day: News In Review</title>
+</programme>
+<programme start="20200923073000 +0700" stop="20200923080000 +0700" channel="dwtv">
+<title>Made In Germany: Business</title>
+</programme>
+<programme start="20200923080000 +0700" stop="20200923081500 +0700" channel="dwtv">
+<title>DW News</title>
+</programme>
+<programme start="20200923081500 +0700" stop="20200923090000 +0700" channel="dwtv">
+<title>DocFilm</title>
+</programme>
+<programme start="20200923090000 +0700" stop="20200923090200 +0700" channel="dwtv">
+<title>DW News</title>
+</programme>
+<programme start="20200923090200 +0700" stop="20200923093000 +0700" channel="dwtv">
+<title>The Day: News In Review</title>
+</programme>
+<programme start="20200923093000 +0700" stop="20200923100000 +0700" channel="dwtv">
+<title>Global 3000: Globalization</title>
+</programme>
+<programme start="20200923100000 +0700" stop="20200923101500 +0700" channel="dwtv">
+<title>DW News</title>
+</programme>
+<programme start="20200923101500 +0700" stop="20200923103000 +0700" channel="dwtv">
+<title>Business: News</title>
+</programme>
+<programme start="20200923103000 +0700" stop="20200923110000 +0700" channel="dwtv">
+<title>Eco Africa: Environment</title>
+</programme>
+<programme start="20200923110000 +0700" stop="20200923110200 +0700" channel="dwtv">
+<title>DW News</title>
+</programme>
+<programme start="20200923110200 +0700" stop="20200923113000 +0700" channel="dwtv">
+<title>The Day: News In Review</title>
+</programme>
+<programme start="20200923113000 +0700" stop="20200923120000 +0700" channel="dwtv">
+<title>Made In Germany: Business</title>
+</programme>
+<programme start="20200923120000 +0700" stop="20200923121500 +0700" channel="dwtv">
+<title>DW News</title>
+</programme>
+<programme start="20200923121500 +0700" stop="20200923130000 +0700" channel="dwtv">
+<title>DocFilm</title>
+</programme>
+<programme start="20200923130000 +0700" stop="20200923133000 +0700" channel="dwtv">
+<title>DW News</title>
+</programme>
+<programme start="20200923133000 +0700" stop="20200923134500 +0700" channel="dwtv">
+<title>Business: News</title>
+</programme>
+<programme start="20200923134500 +0700" stop="20200923140000 +0700" channel="dwtv">
+<title>Arts And Culture: News</title>
+</programme>
+<programme start="20200923140000 +0700" stop="20200923143000 +0700" channel="dwtv">
+<title>DW News</title>
+</programme>
+<programme start="20200923143000 +0700" stop="20200923150000 +0700" channel="dwtv">
+<title>Close Up: The Current Affairs</title>
+</programme>
+<programme start="20200923150000 +0700" stop="20200923153000 +0700" channel="dwtv">
+<title>DW News</title>
+</programme>
+<programme start="20200923153000 +0700" stop="20200923160000 +0700" channel="dwtv">
+<title>Eco India: Environment</title>
+</programme>
+<programme start="20200923160000 +0700" stop="20200923161500 +0700" channel="dwtv">
+<title>DW News</title>
+</programme>
+<programme start="20200923161500 +0700" stop="20200923170000 +0700" channel="dwtv">
+<title>DocFilm</title>
+</programme>
+<programme start="20200923170000 +0700" stop="20200923173000 +0700" channel="dwtv">
+<title>DW News</title>
+</programme>
+<programme start="20200923173000 +0700" stop="20200924000000 +0700" channel="dwtv">
+<title>Business: News</title>
+</programme>
+<programme start="20200923010000 +0700" stop="20200923020000 +0700" channel="foxsport1">
+<title>Roland-Garros 2017: A Star</title>
+</programme>
+<programme start="20200923020000 +0700" stop="20200923030000 +0700" channel="foxsport1">
+<title>Roland-Garros 2017: La Decima</title>
+</programme>
+<programme start="20200923030000 +0700" stop="20200923043000 +0700" channel="foxsport1">
+<title>FIM Motocross: Emilia Romagna</title>
+</programme>
+<programme start="20200923043000 +0700" stop="20200923060000 +0700" channel="foxsport1">
+<title>FIM Motocross: Emilia Romagna</title>
+</programme>
+<programme start="20200923060000 +0700" stop="20200923063000 +0700" channel="foxsport1">
+<title>2 Wheels</title>
+</programme>
+<programme start="20200923063000 +0700" stop="20200923070000 +0700" channel="foxsport1">
+<title>FOX Sports Live</title>
+</programme>
+<programme start="20200923070000 +0700" stop="20200923090000 +0700" channel="foxsport1">
+<title>AFC Cup: Toyota FC Vs Chi Minh</title>
+</programme>
+<programme start="20200923090000 +0700" stop="20200923100000 +0700" channel="foxsport1">
+<title>Roland-Garros 2017: A Star</title>
+</programme>
+<programme start="20200923100000 +0700" stop="20200923110000 +0700" channel="foxsport1">
+<title>Roland-Garros 2017: La Decima</title>
+</programme>
+<programme start="20200923110000 +0700" stop="20200923113000 +0700" channel="foxsport1">
+<title>ESPN FC</title>
+</programme>
+<programme start="20200923113000 +0700" stop="20200923114500 +0700" channel="foxsport1">
+<title>SportsCenter</title>
+</programme>
+<programme start="20200923114500 +0700" stop="20200923121500 +0700" channel="foxsport1">
+<title>2 Wheels</title>
+</programme>
+<programme start="20200923121500 +0700" stop="20200923124500 +0700" channel="foxsport1">
+<title>FOX Sports Live</title>
+</programme>
+<programme start="20200923124500 +0700" stop="20200923130000 +0700" channel="foxsport1">
+<title>SportsCenter</title>
+</programme>
+<programme start="20200923130000 +0700" stop="20200923150000 +0700" channel="foxsport1">
+<title>AFC Cup: Toyota FC Vs Chi Minh</title>
+</programme>
+<programme start="20200923150000 +0700" stop="20200923153000 +0700" channel="foxsport1">
+<title>ESPN FC</title>
+</programme>
+<programme start="20200923153000 +0700" stop="20200923154500 +0700" channel="foxsport1">
+<title>SportsCenter</title>
+</programme>
+<programme start="20200923154500 +0700" stop="20200923181500 +0700" channel="foxsport1">
+<title>UFC: Covington Vs Woodley</title>
+</programme>
+<programme start="20200923181500 +0700" stop="20200923183000 +0700" channel="foxsport1">
+<title>SportsCenter</title>
+</programme>
+<programme start="20200923183000 +0700" stop="20200923190000 +0700" channel="foxsport1">
+<title>ESPN FC</title>
+</programme>
+<programme start="20200923190000 +0700" stop="20200923193000 +0700" channel="foxsport1">
+<title>The John Dykes Show (L)</title>
+</programme>
+<programme start="20200923193000 +0700" stop="20200923200000 +0700" channel="foxsport1">
+<title>Generation Gap: Chelsea</title>
+</programme>
+<programme start="20200923200000 +0700" stop="20200923210000 +0700" channel="foxsport1">
+<title>ESPN 30 For 30: Steinbrenner</title>
+</programme>
+<programme start="20200923210000 +0700" stop="20200923213000 +0700" channel="foxsport1">
+<title>Generation Gap: Chelsea</title>
+</programme>
+<programme start="20200923213000 +0700" stop="20200923220000 +0700" channel="foxsport1">
+<title>ESPN FC</title>
+</programme>
+<programme start="20200923220000 +0700" stop="20200923223000 +0700" channel="foxsport1">
+<title>The John Dykes Show</title>
+</programme>
+<programme start="20200923223000 +0700" stop="20200924000000 +0700" channel="foxsport1">
+<title>UFC: Covington Vs Woodley</title>
+</programme>
+<programme start="20200923010000 +0700" stop="20200923033000 +0700" channel="foxsport2">
+<title>MLB 2020: Yankees Vs Blue Jays</title>
+</programme>
+<programme start="20200923033000 +0700" stop="20200923053000 +0700" channel="foxsport2">
+<title>US Open Championship 2020 HL</title>
+</programme>
+<programme start="20200923053000 +0700" stop="20200923083000 +0700" channel="foxsport2">
+<title>MLB: Yankees Vs Blue Jays (L)</title>
+</programme>
+<programme start="20200923083000 +0700" stop="20200923093000 +0700" channel="foxsport2">
+<title>Spikeball College C'ship 2019</title>
+</programme>
+<programme start="20200923093000 +0700" stop="20200923103000 +0700" channel="foxsport2">
+<title>World Sport Stacking C'ship</title>
+</programme>
+<programme start="20200923103000 +0700" stop="20200923123000 +0700" channel="foxsport2">
+<title>US Open Championship 2020 HL</title>
+</programme>
+<programme start="20200923123000 +0700" stop="20200923130000 +0700" channel="foxsport2">
+<title>XTERRA World Series 2020</title>
+</programme>
+<programme start="20200923130000 +0700" stop="20200923140000 +0700" channel="foxsport2">
+<title>Novak: A French Affair 2016</title>
+</programme>
+<programme start="20200923140000 +0700" stop="20200923150000 +0700" channel="foxsport2">
+<title>Mugurza: A French Affair 2016</title>
+</programme>
+<programme start="20200923150000 +0700" stop="20200923173000 +0700" channel="foxsport2">
+<title>MLB 2020: Yankees Vs Blue Jays</title>
+</programme>
+<programme start="20200923173000 +0700" stop="20200923193000 +0700" channel="foxsport2">
+<title>US Open Championship 2020 HL</title>
+</programme>
+<programme start="20200923193000 +0700" stop="20200923200000 +0700" channel="foxsport2">
+<title>FOX Sports Live</title>
+</programme>
+<programme start="20200923200000 +0700" stop="20200923210000 +0700" channel="foxsport2">
+<title>MLB 2020: Yankees Vs Blue Jays</title>
+</programme>
+<programme start="20200923210000 +0700" stop="20200923220000 +0700" channel="foxsport2">
+<title>Roland-Garros 2017: A Star</title>
+</programme>
+<programme start="20200923220000 +0700" stop="20200923230000 +0700" channel="foxsport2">
+<title>Roland-Garros 2017: La Decima</title>
+</programme>
+<programme start="20200923230000 +0700" stop="20200924000000 +0700" channel="foxsport2">
+<title>US Open Championship 2020 HL</title>
+</programme>
+<programme start="20200923010000 +0700" stop="20200923030000 +0700" channel="foxsport3">
+<title>AMA Supercross 2020 Highlights</title>
+</programme>
+<programme start="20200923030000 +0700" stop="20200923050000 +0700" channel="foxsport3">
+<title>AMA Supercross 2020 Highlights</title>
+</programme>
+<programme start="20200923050000 +0700" stop="20200923060000 +0700" channel="foxsport3">
+<title>FIM Enel MotoE World Cup 2020</title>
+</programme>
+<programme start="20200923060000 +0700" stop="20200923070000 +0700" channel="foxsport3">
+<title>Supercars C'ship 2020</title>
+</programme>
+<programme start="20200923070000 +0700" stop="20200923080000 +0700" channel="foxsport3">
+<title>Tissot Superpole Race 2020: SPA</title>
+</programme>
+<programme start="20200923080000 +0700" stop="20200923090000 +0700" channel="foxsport3">
+<title>FIM Enel MotoE World Cup 2020</title>
+</programme>
+<programme start="20200923090000 +0700" stop="20200923100000 +0700" channel="foxsport3">
+<title>FIM Enel MotoE World Cup 2020</title>
+</programme>
+<programme start="20200923100000 +0700" stop="20200923103000 +0700" channel="foxsport3">
+<title>FIM Enel MotoE World Cup 2020</title>
+</programme>
+<programme start="20200923103000 +0700" stop="20200923120000 +0700" channel="foxsport3">
+<title>Motul FIM Superbike 2020: SPA</title>
+</programme>
+<programme start="20200923120000 +0700" stop="20200923130000 +0700" channel="foxsport3">
+<title>Monster Jam 2020</title>
+</programme>
+<programme start="20200923130000 +0700" stop="20200923140000 +0700" channel="foxsport3">
+<title>GT World Challenge Europe 2020</title>
+</programme>
+<programme start="20200923140000 +0700" stop="20200923143000 +0700" channel="foxsport3">
+<title>ESPN Classic Boxing</title>
+</programme>
+<programme start="20200923143000 +0700" stop="20200923160000 +0700" channel="foxsport3">
+<title>FIM Motocross 2020: Italy</title>
+</programme>
+<programme start="20200923160000 +0700" stop="20200923170000 +0700" channel="foxsport3">
+<title>GT World Challenge Europe 2020</title>
+</programme>
+<programme start="20200923170000 +0700" stop="20200923190000 +0700" channel="foxsport3">
+<title>IndyCar 2020: USA</title>
+</programme>
+<programme start="20200923190000 +0700" stop="20200923200000 +0700" channel="foxsport3">
+<title>FIM Supersport 300 C'ship: SPA</title>
+</programme>
+<programme start="20200923200000 +0700" stop="20200923210000 +0700" channel="foxsport3">
+<title>FIM Supersport 300 C'ship: SPA</title>
+</programme>
+<programme start="20200923210000 +0700" stop="20200923213000 +0700" channel="foxsport3">
+<title>F1 Pirelli Tuscan GP 2020</title>
+</programme>
+<programme start="20200923213000 +0700" stop="20200923220000 +0700" channel="foxsport3">
+<title>ESPN Classic Boxing</title>
+</programme>
+<programme start="20200923220000 +0700" stop="20200923230000 +0700" channel="foxsport3">
+<title>ESPN Classic Boxing</title>
+</programme>
+<programme start="20200923230000 +0700" stop="20200924000000 +0700" channel="foxsport3">
+<title>AMA Supercross 2020 Highlights</title>
+</programme>
+<programme start="20200923000000 +0700" stop="20200923001000 +0700" channel="france24">
+<title>News (L)</title>
+</programme>
+<programme start="20200923001000 +0700" stop="20200923003000 +0700" channel="france24">
+<title>The Debate, Pt 1 (L)</title>
+</programme>
+<programme start="20200923003000 +0700" stop="20200923003200 +0700" channel="france24">
+<title>Headlines (L)</title>
+</programme>
+<programme start="20200923003200 +0700" stop="20200923010000 +0700" channel="france24">
+<title>The Debate, Pt 2 (L)</title>
+</programme>
+<programme start="20200923010000 +0700" stop="20200923011500 +0700" channel="france24">
+<title>News (L)</title>
+</programme>
+<programme start="20200923011500 +0700" stop="20200923011600 +0700" channel="france24">
+<title>Headlines (L)</title>
+</programme>
+<programme start="20200923011600 +0700" stop="20200923012100 +0700" channel="france24">
+<title>Business (L)</title>
+</programme>
+<programme start="20200923012100 +0700" stop="20200923013000 +0700" channel="france24">
+<title>Sports (L)</title>
+</programme>
+<programme start="20200923013000 +0700" stop="20200923014500 +0700" channel="france24">
+<title>News (L)</title>
+</programme>
+<programme start="20200923014500 +0700" stop="20200923014600 +0700" channel="france24">
+<title>Headlines (L)</title>
+</programme>
+<programme start="20200923014600 +0700" stop="20200923015100 +0700" channel="france24">
+<title>Media Watch (L)</title>
+</programme>
+<programme start="20200923015100 +0700" stop="20200923020000 +0700" channel="france24">
+<title>Focus (L)</title>
+</programme>
+<programme start="20200923020000 +0700" stop="20200923021700 +0700" channel="france24">
+<title>News (L)</title>
+</programme>
+<programme start="20200923021700 +0700" stop="20200923021800 +0700" channel="france24">
+<title>Headlines (L)</title>
+</programme>
+<programme start="20200923021800 +0700" stop="20200923023000 +0700" channel="france24">
+<title>Business (L)</title>
+</programme>
+<programme start="20200923023000 +0700" stop="20200923024400 +0700" channel="france24">
+<title>News (L)</title>
+</programme>
+<programme start="20200923024400 +0700" stop="20200923024600 +0700" channel="france24">
+<title>Headlines (L)</title>
+</programme>
+<programme start="20200923024600 +0700" stop="20200923030000 +0700" channel="france24">
+<title>Eye On Africa (L)</title>
+</programme>
+<programme start="20200923030000 +0700" stop="20200923031500 +0700" channel="france24">
+<title>News (L)</title>
+</programme>
+<programme start="20200923031500 +0700" stop="20200923031600 +0700" channel="france24">
+<title>Headlines (L)</title>
+</programme>
+<programme start="20200923031600 +0700" stop="20200923032100 +0700" channel="france24">
+<title>Business (L)</title>
+</programme>
+<programme start="20200923032100 +0700" stop="20200923033000 +0700" channel="france24">
+<title>Media Watch (L)</title>
+</programme>
+<programme start="20200923033000 +0700" stop="20200923034400 +0700" channel="france24">
+<title>News (L)</title>
+</programme>
+<programme start="20200923034400 +0700" stop="20200923034600 +0700" channel="france24">
+<title>Headlines (L)</title>
+</programme>
+<programme start="20200923034600 +0700" stop="20200923040000 +0700" channel="france24">
+<title>Eye On Africa (L)</title>
+</programme>
+<programme start="20200923040000 +0700" stop="20200923041500 +0700" channel="france24">
+<title>News (L)</title>
+</programme>
+<programme start="20200923041500 +0700" stop="20200923041700 +0700" channel="france24">
+<title>Headlines (L)</title>
+</programme>
+<programme start="20200923041700 +0700" stop="20200923043000 +0700" channel="france24">
+<title>Business + Media Watch</title>
+</programme>
+<programme start="20200923043000 +0700" stop="20200923044500 +0700" channel="france24">
+<title>News (L)</title>
+</programme>
+<programme start="20200923044500 +0700" stop="20200923044600 +0700" channel="france24">
+<title>Headlines (L)</title>
+</programme>
+<programme start="20200923044600 +0700" stop="20200923045100 +0700" channel="france24">
+<title>Sports (L)</title>
+</programme>
+<programme start="20200923045100 +0700" stop="20200923050000 +0700" channel="france24">
+<title>Focus (L)</title>
+</programme>
+<programme start="20200923050000 +0700" stop="20200923051100 +0700" channel="france24">
+<title>News (L)</title>
+</programme>
+<programme start="20200923051100 +0700" stop="20200923053000 +0700" channel="france24">
+<title>The Debate, Pt 1</title>
+</programme>
+<programme start="20200923053000 +0700" stop="20200923053200 +0700" channel="france24">
+<title>Headlines (L)</title>
+</programme>
+<programme start="20200923053200 +0700" stop="20200923060000 +0700" channel="france24">
+<title>The Debate, Pt 2</title>
+</programme>
+<programme start="20200923060000 +0700" stop="20200923061500 +0700" channel="france24">
+<title>News (L)</title>
+</programme>
+<programme start="20200923061500 +0700" stop="20200923062000 +0700" channel="france24">
+<title>Business</title>
+</programme>
+<programme start="20200923062000 +0700" stop="20200923063000 +0700" channel="france24">
+<title>Sports</title>
+</programme>
+<programme start="20200923063000 +0700" stop="20200923064500 +0700" channel="france24">
+<title>News (L)</title>
+</programme>
+<programme start="20200923064500 +0700" stop="20200923070000 +0700" channel="france24">
+<title>Encore!</title>
+</programme>
+<programme start="20200923070000 +0700" stop="20200923071500 +0700" channel="france24">
+<title>News (L)</title>
+</programme>
+<programme start="20200923071500 +0700" stop="20200923072000 +0700" channel="france24">
+<title>Focus</title>
+</programme>
+<programme start="20200923072000 +0700" stop="20200923073000 +0700" channel="france24">
+<title>Banlieue Project</title>
+</programme>
+<programme start="20200923073000 +0700" stop="20200923074500 +0700" channel="france24">
+<title>News (L)</title>
+</programme>
+<programme start="20200923074500 +0700" stop="20200923080000 +0700" channel="france24">
+<title>Eye On Africa</title>
+</programme>
+<programme start="20200923080000 +0700" stop="20200923081100 +0700" channel="france24">
+<title>News (L)</title>
+</programme>
+<programme start="20200923081100 +0700" stop="20200923083000 +0700" channel="france24">
+<title>The Debate, Pt 1</title>
+</programme>
+<programme start="20200923083000 +0700" stop="20200923083200 +0700" channel="france24">
+<title>Headlines (L)</title>
+</programme>
+<programme start="20200923083200 +0700" stop="20200924000000 +0700" channel="france24">
+<title>The Debate, Pt 2</title>
+</programme>
+<programme start="20200923000000 +0700" stop="20200923003000 +0700" channel="idx">
+<title>Traventure Man</title>
+</programme>
+<programme start="20200923003000 +0700" stop="20200923013000 +0700" channel="idx">
+<title>Market Opening</title>
+</programme>
+<programme start="20200923013000 +0700" stop="20200923023000 +0700" channel="idx">
+<title>Market Review</title>
+</programme>
+<programme start="20200923023000 +0700" stop="20200923033000 +0700" channel="idx">
+<title>IDX 2nd Closing Market</title>
+</programme>
+<programme start="20200923033000 +0700" stop="20200923040000 +0700" channel="idx">
+<title>Geopark Indonesia</title>
+</programme>
+<programme start="20200923040000 +0700" stop="20200923043000 +0700" channel="idx">
+<title>Mata Pancing</title>
+</programme>
+<programme start="20200923043000 +0700" stop="20200923050000 +0700" channel="idx">
+<title>Hangout</title>
+</programme>
+<programme start="20200923050000 +0700" stop="20200923053000 +0700" channel="idx">
+<title>Capture</title>
+</programme>
+<programme start="20200923053000 +0700" stop="20200923063000 +0700" channel="idx">
+<title>IDX 2nd Closing Market</title>
+</programme>
+<programme start="20200923063000 +0700" stop="20200923073000 +0700" channel="idx">
+<title>Market Review</title>
+</programme>
+<programme start="20200923073000 +0700" stop="20200923080000 +0700" channel="idx">
+<title>Market Headlines</title>
+</programme>
+<programme start="20200923080000 +0700" stop="20200923083000 +0700" channel="idx">
+<title>News Screen Evening</title>
+</programme>
+<programme start="20200923083000 +0700" stop="20200923093000 +0700" channel="idx">
+<title>Market Opening (L)</title>
+</programme>
+<programme start="20200923093000 +0700" stop="20200923100000 +0700" channel="idx">
+<title>Decision Maker</title>
+</programme>
+<programme start="20200923100000 +0700" stop="20200923110000 +0700" channel="idx">
+<title>Market Review (L)</title>
+</programme>
+<programme start="20200923110000 +0700" stop="20200923113000 +0700" channel="idx">
+<title>Womens Talk</title>
+</programme>
+<programme start="20200923113000 +0700" stop="20200923123000 +0700" channel="idx">
+<title>IDX 1st Closing Market (L)</title>
+</programme>
+<programme start="20200923123000 +0700" stop="20200923130000 +0700" channel="idx">
+<title>Hangout</title>
+</programme>
+<programme start="20200923130000 +0700" stop="20200923133000 +0700" channel="idx">
+<title>Urban Street Food</title>
+</programme>
+<programme start="20200923133000 +0700" stop="20200923140000 +0700" channel="idx">
+<title>People And Hobbies</title>
+</programme>
+<programme start="20200923140000 +0700" stop="20200923143000 +0700" channel="idx">
+<title>Indonesia Authentic Place</title>
+</programme>
+<programme start="20200923143000 +0700" stop="20200923150000 +0700" channel="idx">
+<title>News Screen Evening (L)</title>
+</programme>
+<programme start="20200923150000 +0700" stop="20200923160000 +0700" channel="idx">
+<title>IDX 2nd Closing Market (L)</title>
+</programme>
+<programme start="20200923160000 +0700" stop="20200923163000 +0700" channel="idx">
+<title>Decision Maker</title>
+</programme>
+<programme start="20200923163000 +0700" stop="20200923170000 +0700" channel="idx">
+<title>Market Headlines (L)</title>
+</programme>
+<programme start="20200923170000 +0700" stop="20200923173000 +0700" channel="idx">
+<title>Womens Talk</title>
+</programme>
+<programme start="20200923173000 +0700" stop="20200923180000 +0700" channel="idx">
+<title>Home Ideas</title>
+</programme>
+<programme start="20200923180000 +0700" stop="20200923183000 +0700" channel="idx">
+<title>Urban Street Food S2</title>
+</programme>
+<programme start="20200923183000 +0700" stop="20200923190000 +0700" channel="idx">
+<title>Double Gardan</title>
+</programme>
+<programme start="20200923190000 +0700" stop="20200923200000 +0700" channel="idx">
+<title>Market Opening</title>
+</programme>
+<programme start="20200923200000 +0700" stop="20200923203000 +0700" channel="idx">
+<title>Hangout</title>
+</programme>
+<programme start="20200923203000 +0700" stop="20200923210000 +0700" channel="idx">
+<title>News Screen Evening</title>
+</programme>
+<programme start="20200923210000 +0700" stop="20200923220000 +0700" channel="idx">
+<title>Market Review</title>
+</programme>
+<programme start="20200923220000 +0700" stop="20200923230000 +0700" channel="idx">
+<title>IDX 2nd Closing Market</title>
+</programme>
+<programme start="20200923230000 +0700" stop="20200923233000 +0700" channel="idx">
+<title>Market Headlines</title>
+</programme>
+<programme start="20200923233000 +0700" stop="20200924000000 +0700" channel="idx">
+<title>Decision Maker</title>
+</programme>
+<programme start="20200923000000 +0700" stop="20200923020000 +0700" channel="indosiar">
+<title>Tukul Arwana One Man Show</title>
+</programme>
+<programme start="20200923020000 +0700" stop="20200923023000 +0700" channel="indosiar">
+<title>Patroli Malam</title>
+</programme>
+<programme start="20200923023000 +0700" stop="20200923030000 +0700" channel="indosiar">
+<title>Fokus Malam</title>
+</programme>
+<programme start="20200923030000 +0700" stop="20200923040000 +0700" channel="indosiar">
+<title>Aku Menikahi Istri Durhaka</title>
+</programme>
+<programme start="20200923040000 +0700" stop="20200923043000 +0700" channel="indosiar">
+<title>Mukjizat Masih Ada</title>
+</programme>
+<programme start="20200923043000 +0700" stop="20200923060000 +0700" channel="indosiar">
+<title>Fokus Pagi</title>
+</programme>
+<programme start="20200923060000 +0700" stop="20200923063000 +0700" channel="indosiar">
+<title>Tasbih</title>
+</programme>
+<programme start="20200923063000 +0700" stop="20200923073000 +0700" channel="indosiar">
+<title>Anak Preman Jadi Ustazah</title>
+</programme>
+<programme start="20200923073000 +0700" stop="20200923093000 +0700" channel="indosiar">
+<title>Kegigihan Bocah Yatim Piatu</title>
+</programme>
+<programme start="20200923093000 +0700" stop="20200923103000 +0700" channel="indosiar">
+<title>Hot Kiss</title>
+</programme>
+<programme start="20200923103000 +0700" stop="20200923110000 +0700" channel="indosiar">
+<title>Patroli</title>
+</programme>
+<programme start="20200923110000 +0700" stop="20200923113000 +0700" channel="indosiar">
+<title>Fokus</title>
+</programme>
+<programme start="20200923113000 +0700" stop="20200923133000 +0700" channel="indosiar">
+<title>Dulu Suamiku, Kini Jadi...</title>
+</programme>
+<programme start="20200923133000 +0700" stop="20200923150000 +0700" channel="indosiar">
+<title>Jodoh Terbaik Untuk Gadis...</title>
+</programme>
+<programme start="20200923150000 +0700" stop="20200923163000 +0700" channel="indosiar">
+<title>Istri Mantan Suamiku Bermuka 2</title>
+</programme>
+<programme start="20200923163000 +0700" stop="20200923180000 +0700" channel="indosiar">
+<title>Aku Menikah Muda</title>
+</programme>
+<programme start="20200923180000 +0700" stop="20200923200000 +0700" channel="indosiar">
+<title>Istri Jaminan</title>
+</programme>
+<programme start="20200923200000 +0700" stop="20200924000000 +0700" channel="indosiar">
+<title>Indosiar</title>
+</programme>
+<programme start="20200923000000 +0700" stop="20200923003000 +0700" channel="jaktv">
+<title>Dangdut Hour</title>
+</programme>
+<programme start="20200923003000 +0700" stop="20200923010000 +0700" channel="jaktv">
+<title>Tawa Sutra</title>
+</programme>
+<programme start="20200923010000 +0700" stop="20200923050000 +0700" channel="jaktv">
+<title>Rindu Tanah Suci</title>
+</programme>
+<programme start="20200923050000 +0700" stop="20200923053000 +0700" channel="jaktv">
+<title>Inside</title>
+</programme>
+<programme start="20200923053000 +0700" stop="20200923060000 +0700" channel="jaktv">
+<title>Animal Action</title>
+</programme>
+<programme start="20200923060000 +0700" stop="20200923070000 +0700" channel="jaktv">
+<title>News Room</title>
+</programme>
+<programme start="20200923070000 +0700" stop="20200923080000 +0700" channel="jaktv">
+<title>Lejel</title>
+</programme>
+<programme start="20200923080000 +0700" stop="20200923090000 +0700" channel="jaktv">
+<title>Berkah Shop</title>
+</programme>
+<programme start="20200923090000 +0700" stop="20200923100000 +0700" channel="jaktv">
+<title>Lejel</title>
+</programme>
+<programme start="20200923100000 +0700" stop="20200923110000 +0700" channel="jaktv">
+<title>Lejel</title>
+</programme>
+<programme start="20200923110000 +0700" stop="20200923113000 +0700" channel="jaktv">
+<title>Animal Action</title>
+</programme>
+<programme start="20200923113000 +0700" stop="20200923120000 +0700" channel="jaktv">
+<title>Kiddies World</title>
+</programme>
+<programme start="20200923120000 +0700" stop="20200923123000 +0700" channel="jaktv">
+<title>BNPB</title>
+</programme>
+<programme start="20200923123000 +0700" stop="20200923140000 +0700" channel="jaktv">
+<title>POSe Musicafe Festival 2020</title>
+</programme>
+<programme start="20200923140000 +0700" stop="20200923150000 +0700" channel="jaktv">
+<title>Local Hour Zamrud Khatulistiwa</title>
+</programme>
+<programme start="20200923150000 +0700" stop="20200923160000 +0700" channel="jaktv">
+<title>Lejel</title>
+</programme>
+<programme start="20200923160000 +0700" stop="20200923170000 +0700" channel="jaktv">
+<title>Pesbukers</title>
+</programme>
+<programme start="20200923170000 +0700" stop="20200923173000 +0700" channel="jaktv">
+<title>BNPB</title>
+</programme>
+<programme start="20200923173000 +0700" stop="20200923180000 +0700" channel="jaktv">
+<title>Inside</title>
+</programme>
+<programme start="20200923180000 +0700" stop="20200923190000 +0700" channel="jaktv">
+<title>News Room</title>
+</programme>
+<programme start="20200923190000 +0700" stop="20200923193000 +0700" channel="jaktv">
+<title>Animal Action</title>
+</programme>
+<programme start="20200923193000 +0700" stop="20200923200000 +0700" channel="jaktv">
+<title>Kiddies World</title>
+</programme>
+<programme start="20200923200000 +0700" stop="20200923210000 +0700" channel="jaktv">
+<title>MNC Shop</title>
+</programme>
+<programme start="20200923210000 +0700" stop="20200923220000 +0700" channel="jaktv">
+<title>Curcol Kuy</title>
+</programme>
+<programme start="20200923220000 +0700" stop="20200923230000 +0700" channel="jaktv">
+<title>Kabar Misteri</title>
+</programme>
+<programme start="20200923230000 +0700" stop="20200924000000 +0700" channel="jaktv">
+<title>News Room</title>
+</programme>
+<programme start="20200923000000 +0700" stop="20200923003000 +0700" channel="kompastv">
+<title>Kilas Kompas</title>
+</programme>
+<programme start="20200923003000 +0700" stop="20200923010000 +0700" channel="kompastv">
+<title>Stand Up Comedy Indonesia</title>
+</programme>
+<programme start="20200923010000 +0700" stop="20200923013000 +0700" channel="kompastv">
+<title>MNC Shop</title>
+</programme>
+<programme start="20200923013000 +0700" stop="20200923020000 +0700" channel="kompastv">
+<title>Bingkai Inspirasi</title>
+</programme>
+<programme start="20200923020000 +0700" stop="20200923030000 +0700" channel="kompastv">
+<title>Berita Utama</title>
+</programme>
+<programme start="20200923030000 +0700" stop="20200923033000 +0700" channel="kompastv">
+<title>Kompas Sport Malam</title>
+</programme>
+<programme start="20200923033000 +0700" stop="20200923040000 +0700" channel="kompastv">
+<title>Kalam Hati</title>
+</programme>
+<programme start="20200923040000 +0700" stop="20200923043000 +0700" channel="kompastv">
+<title>Kompas Sport Pagi</title>
+</programme>
+<programme start="20200923043000 +0700" stop="20200923070000 +0700" channel="kompastv">
+<title>Kompas Pagi</title>
+</programme>
+<programme start="20200923070000 +0700" stop="20200923093000 +0700" channel="kompastv">
+<title>Sapa Indonesia Pagi</title>
+</programme>
+<programme start="20200923093000 +0700" stop="20200923100000 +0700" channel="kompastv">
+<title>Bincang Kita</title>
+</programme>
+<programme start="20200923100000 +0700" stop="20200923110000 +0700" channel="kompastv">
+<title>Pop News</title>
+</programme>
+<programme start="20200923110000 +0700" stop="20200923130000 +0700" channel="kompastv">
+<title>Kompas Siang</title>
+</programme>
+<programme start="20200923130000 +0700" stop="20200923140000 +0700" channel="kompastv">
+<title>Sapa Indonesia Siang</title>
+</programme>
+<programme start="20200923140000 +0700" stop="20200923143000 +0700" channel="kompastv">
+<title>Zona Inspirasi</title>
+</programme>
+<programme start="20200923143000 +0700" stop="20200923150000 +0700" channel="kompastv">
+<title>Saksi Kunci</title>
+</programme>
+<programme start="20200923150000 +0700" stop="20200923160000 +0700" channel="kompastv">
+<title>Update Korona</title>
+</programme>
+<programme start="20200923160000 +0700" stop="20200923180000 +0700" channel="kompastv">
+<title>Kompas Petang</title>
+</programme>
+<programme start="20200923180000 +0700" stop="20200923190000 +0700" channel="kompastv">
+<title>Berita Utama</title>
+</programme>
+<programme start="20200923190000 +0700" stop="20200923200000 +0700" channel="kompastv">
+<title>Sapa Indonesia Malam</title>
+</programme>
+<programme start="20200923200000 +0700" stop="20200923210000 +0700" channel="kompastv">
+<title>Satu Meja The Forum</title>
+</programme>
+<programme start="20200923210000 +0700" stop="20200923220000 +0700" channel="kompastv">
+<title>Kompas Malam</title>
+</programme>
+<programme start="20200923220000 +0700" stop="20200923223000 +0700" channel="kompastv">
+<title>Target</title>
+</programme>
+<programme start="20200923223000 +0700" stop="20200923230000 +0700" channel="kompastv">
+<title>News Or Hoax</title>
+</programme>
+<programme start="20200923230000 +0700" stop="20200923233000 +0700" channel="kompastv">
+<title>Kompas Sport Malam</title>
+</programme>
+<programme start="20200923233000 +0700" stop="20200924000000 +0700" channel="kompastv">
+<title>Saksi Kunci</title>
+</programme>
+<programme start="20200923000000 +0700" stop="20200923000500 +0700" channel="metrotv">
+<title>Headline News</title>
+</programme>
+<programme start="20200923000500 +0700" stop="20200923010000 +0700" channel="metrotv">
+<title>Primetime News</title>
+</programme>
+<programme start="20200923010000 +0700" stop="20200923010500 +0700" channel="metrotv">
+<title>Headline News</title>
+</programme>
+<programme start="20200923010500 +0700" stop="20200923020000 +0700" channel="metrotv">
+<title>Primetalk With Rory</title>
+</programme>
+<programme start="20200923020000 +0700" stop="20200923020500 +0700" channel="metrotv">
+<title>Headline News</title>
+</programme>
+<programme start="20200923020500 +0700" stop="20200923030000 +0700" channel="metrotv">
+<title>Top News</title>
+</programme>
+<programme start="20200923030000 +0700" stop="20200923030500 +0700" channel="metrotv">
+<title>Headline News</title>
+</programme>
+<programme start="20200923030500 +0700" stop="20200923033000 +0700" channel="metrotv">
+<title>Dunia Kita</title>
+</programme>
+<programme start="20200923033000 +0700" stop="20200923040000 +0700" channel="metrotv">
+<title>Sirah Nabawiyah</title>
+</programme>
+<programme start="20200923040000 +0700" stop="20200923040500 +0700" channel="metrotv">
+<title>Headline News</title>
+</programme>
+<programme start="20200923040500 +0700" stop="20200923043000 +0700" channel="metrotv">
+<title>Metro Sport</title>
+</programme>
+<programme start="20200923043000 +0700" stop="20200923050000 +0700" channel="metrotv">
+<title>Metro Pagi Primetime</title>
+</programme>
+<programme start="20200923050000 +0700" stop="20200923050500 +0700" channel="metrotv">
+<title>Headline News</title>
+</programme>
+<programme start="20200923050500 +0700" stop="20200923060000 +0700" channel="metrotv">
+<title>Metro Pagi Primetime</title>
+</programme>
+<programme start="20200923060000 +0700" stop="20200923060500 +0700" channel="metrotv">
+<title>Headline News</title>
+</programme>
+<programme start="20200923060500 +0700" stop="20200923070000 +0700" channel="metrotv">
+<title>Metro Pagi Primetime</title>
+</programme>
+<programme start="20200923070000 +0700" stop="20200923070500 +0700" channel="metrotv">
+<title>Headline News</title>
+</programme>
+<programme start="20200923070500 +0700" stop="20200923080000 +0700" channel="metrotv">
+<title>Editorial Media Indonesia</title>
+</programme>
+<programme start="20200923080000 +0700" stop="20200923080500 +0700" channel="metrotv">
+<title>Headline News</title>
+</programme>
+<programme start="20200923080500 +0700" stop="20200923083000 +0700" channel="metrotv">
+<title>Go Healthy</title>
+</programme>
+<programme start="20200923083000 +0700" stop="20200923090000 +0700" channel="metrotv">
+<title>Metro Xinwen</title>
+</programme>
+<programme start="20200923090000 +0700" stop="20200923090500 +0700" channel="metrotv">
+<title>Headline News</title>
+</programme>
+<programme start="20200923090500 +0700" stop="20200923100000 +0700" channel="metrotv">
+<title>Selamat Pagi Indonesia</title>
+</programme>
+<programme start="20200923100000 +0700" stop="20200923100500 +0700" channel="metrotv">
+<title>Headline News</title>
+</programme>
+<programme start="20200923100500 +0700" stop="20200923110000 +0700" channel="metrotv">
+<title>Selamat Pagi Indonesia</title>
+</programme>
+<programme start="20200923110000 +0700" stop="20200923110500 +0700" channel="metrotv">
+<title>Headline News</title>
+</programme>
+<programme start="20200923110500 +0700" stop="20200923120000 +0700" channel="metrotv">
+<title>Metro Siang</title>
+</programme>
+<programme start="20200923120000 +0700" stop="20200923120500 +0700" channel="metrotv">
+<title>Headline News</title>
+</programme>
+<programme start="20200923120500 +0700" stop="20200923130000 +0700" channel="metrotv">
+<title>Metro Siang</title>
+</programme>
+<programme start="20200923130000 +0700" stop="20200923130500 +0700" channel="metrotv">
+<title>Headline News</title>
+</programme>
+<programme start="20200923130500 +0700" stop="20200923140000 +0700" channel="metrotv">
+<title>Newsline</title>
+</programme>
+<programme start="20200923140000 +0700" stop="20200923140500 +0700" channel="metrotv">
+<title>Headline News</title>
+</programme>
+<programme start="20200923140500 +0700" stop="20200923150000 +0700" channel="metrotv">
+<title>Newsline</title>
+</programme>
+<programme start="20200923150000 +0700" stop="20200923150500 +0700" channel="metrotv">
+<title>Headline News</title>
+</programme>
+<programme start="20200923150500 +0700" stop="20200923153000 +0700" channel="metrotv">
+<title>Election 2020 Update</title>
+</programme>
+<programme start="20200923153000 +0700" stop="20200923160000 +0700" channel="metrotv">
+<title>COVID-19 Update</title>
+</programme>
+<programme start="20200923160000 +0700" stop="20200923160500 +0700" channel="metrotv">
+<title>Headline News</title>
+</programme>
+<programme start="20200923160500 +0700" stop="20200923170000 +0700" channel="metrotv">
+<title>Metro Hari Ini</title>
+</programme>
+<programme start="20200923170000 +0700" stop="20200923173000 +0700" channel="metrotv">
+<title>Headline News</title>
+</programme>
+<programme start="20200923173000 +0700" stop="20200923180000 +0700" channel="metrotv">
+<title>Primetime News</title>
+</programme>
+<programme start="20200923180000 +0700" stop="20200923184500 +0700" channel="metrotv">
+<title>Headline News</title>
+</programme>
+<programme start="20200923184500 +0700" stop="20200923190000 +0700" channel="metrotv">
+<title>15 Minutes</title>
+</programme>
+<programme start="20200923190000 +0700" stop="20200923190500 +0700" channel="metrotv">
+<title>Headline News</title>
+</programme>
+<programme start="20200923190500 +0700" stop="20200923200000 +0700" channel="metrotv">
+<title>Primetalk With Rory</title>
+</programme>
+<programme start="20200923200000 +0700" stop="20200923200500 +0700" channel="metrotv">
+<title>Headline News</title>
+</programme>
+<programme start="20200923200500 +0700" stop="20200923210000 +0700" channel="metrotv">
+<title>Susi Cek Ombak</title>
+</programme>
+<programme start="20200923210000 +0700" stop="20200923210500 +0700" channel="metrotv">
+<title>Headline News</title>
+</programme>
+<programme start="20200923210500 +0700" stop="20200923220000 +0700" channel="metrotv">
+<title>Top News</title>
+</programme>
+<programme start="20200923220000 +0700" stop="20200923220500 +0700" channel="metrotv">
+<title>Headline News</title>
+</programme>
+<programme start="20200923220500 +0700" stop="20200924000000 +0700" channel="metrotv">
+<title>Metro Sport</title>
+</programme>
+<programme start="20200923000000 +0700" stop="20200923005500 +0700" channel="natgeo">
+<title>Airport Below Zero, Ep 7</title>
+</programme>
+<programme start="20200923005500 +0700" stop="20200923014500 +0700" channel="natgeo">
+<title>Wicked Tuna S6, Ep 7</title>
+</programme>
+<programme start="20200923014500 +0700" stop="20200923023500 +0700" channel="natgeo">
+<title>Air Crash Investigation, Ep 9</title>
+</programme>
+<programme start="20200923023500 +0700" stop="20200923032500 +0700" channel="natgeo">
+<title>Mega Air, Ep 6</title>
+</programme>
+<programme start="20200923032500 +0700" stop="20200923041500 +0700" channel="natgeo">
+<title>Hidden Gems Of Turkey, Ep 2</title>
+</programme>
+<programme start="20200923041500 +0700" stop="20200923050500 +0700" channel="natgeo">
+<title>Airport Below Zero, Ep 7</title>
+</programme>
+<programme start="20200923050500 +0700" stop="20200923060000 +0700" channel="natgeo">
+<title>Wicked Tuna S6, Ep 7</title>
+</programme>
+<programme start="20200923060000 +0700" stop="20200923065500 +0700" channel="natgeo">
+<title>Air Crash Investigation, Ep 9</title>
+</programme>
+<programme start="20200923065500 +0700" stop="20200923075000 +0700" channel="natgeo">
+<title>Mega Air, Ep 6</title>
+</programme>
+<programme start="20200923075000 +0700" stop="20200923084500 +0700" channel="natgeo">
+<title>Airport Below Zero, Ep 7</title>
+</programme>
+<programme start="20200923084500 +0700" stop="20200923094000 +0700" channel="natgeo">
+<title>Wicked Tuna S6, Ep 7</title>
+</programme>
+<programme start="20200923094000 +0700" stop="20200923103500 +0700" channel="natgeo">
+<title>Wicked Tuna, Ep 12</title>
+</programme>
+<programme start="20200923103500 +0700" stop="20200923113000 +0700" channel="natgeo">
+<title>Legends Of The Deep, Ep 3</title>
+</programme>
+<programme start="20200923113000 +0700" stop="20200923122500 +0700" channel="natgeo">
+<title>A Leader's Legacy: Abdul Razak</title>
+</programme>
+<programme start="20200923122500 +0700" stop="20200923132000 +0700" channel="natgeo">
+<title>Fusion Forager</title>
+</programme>
+<programme start="20200923132000 +0700" stop="20200923141500 +0700" channel="natgeo">
+<title>Wicked Tuna, Ep 2</title>
+</programme>
+<programme start="20200923141500 +0700" stop="20200923151000 +0700" channel="natgeo">
+<title>Drain The Oceans, Ep 9</title>
+</programme>
+<programme start="20200923151000 +0700" stop="20200923160500 +0700" channel="natgeo">
+<title>Drain The Oceans, Ep 10</title>
+</programme>
+<programme start="20200923160500 +0700" stop="20200923170000 +0700" channel="natgeo">
+<title>Gathering Storm, Ep 6</title>
+</programme>
+<programme start="20200923170000 +0700" stop="20200923180000 +0700" channel="natgeo">
+<title>Barkskins, Ep 3</title>
+</programme>
+<programme start="20200923180000 +0700" stop="20200923190000 +0700" channel="natgeo">
+<title>Megacities, Ep 11</title>
+</programme>
+<programme start="20200923190000 +0700" stop="20200923200000 +0700" channel="natgeo">
+<title>Mega Factories, Ep 6</title>
+</programme>
+<programme start="20200923200000 +0700" stop="20200923210000 +0700" channel="natgeo">
+<title>Secret Life Of Busiest Airport</title>
+</programme>
+<programme start="20200923210000 +0700" stop="20200923220000 +0700" channel="natgeo">
+<title>Yukon Gold, Ep 2</title>
+</programme>
+<programme start="20200923220000 +0700" stop="20200923230000 +0700" channel="natgeo">
+<title>To Catch A Smuggler, Ep 1</title>
+</programme>
+<programme start="20200923230000 +0700" stop="20200924000000 +0700" channel="natgeo">
+<title>Air Crash Investigation, Ep 11</title>
+</programme>
+<programme start="20200923001000 +0700" stop="20200923010000 +0700" channel="natgeopeople">
+<title>Fish Tank Kings, Ep 8</title>
+</programme>
+<programme start="20200923010000 +0700" stop="20200923012500 +0700" channel="natgeopeople">
+<title>Miguel's Tropical..., Ep 7</title>
+</programme>
+<programme start="20200923012500 +0700" stop="20200923015000 +0700" channel="natgeopeople">
+<title>Delicacy Hunter, Ep 2</title>
+</programme>
+<programme start="20200923015000 +0700" stop="20200923024000 +0700" channel="natgeopeople">
+<title>Ultimate Airport Dubai..., Ep 4</title>
+</programme>
+<programme start="20200923024000 +0700" stop="20200923030500 +0700" channel="natgeopeople">
+<title>Tom's Istanbul Delight, Ep 3</title>
+</programme>
+<programme start="20200923030500 +0700" stop="20200923033000 +0700" channel="natgeopeople">
+<title>Tom's Istanbul Delight, Ep 4</title>
+</programme>
+<programme start="20200923033000 +0700" stop="20200923042000 +0700" channel="natgeopeople">
+<title>Chasing The Sun, Ep 5</title>
+</programme>
+<programme start="20200923042000 +0700" stop="20200923044500 +0700" channel="natgeopeople">
+<title>Late Nite Eats, Ep 4</title>
+</programme>
+<programme start="20200923044500 +0700" stop="20200923051000 +0700" channel="natgeopeople">
+<title>Late Nite Eats, Ep 5</title>
+</programme>
+<programme start="20200923051000 +0700" stop="20200923060000 +0700" channel="natgeopeople">
+<title>Log Cabin Fever, Ep 10</title>
+</programme>
+<programme start="20200923060000 +0700" stop="20200923062500 +0700" channel="natgeopeople">
+<title>Brojects: For Weekend, Ep 3</title>
+</programme>
+<programme start="20200923062500 +0700" stop="20200923065000 +0700" channel="natgeopeople">
+<title>United Plates Of America, Ep 10</title>
+</programme>
+<programme start="20200923065000 +0700" stop="20200923071500 +0700" channel="natgeopeople">
+<title>Miguel's Tropical..., Ep 3</title>
+</programme>
+<programme start="20200923071500 +0700" stop="20200923074000 +0700" channel="natgeopeople">
+<title>A Taste Of South Africa, Ep 1</title>
+</programme>
+<programme start="20200923074000 +0700" stop="20200923083000 +0700" channel="natgeopeople">
+<title>Ugly House To Lovely..., Ep 1</title>
+</programme>
+<programme start="20200923083000 +0700" stop="20200923092000 +0700" channel="natgeopeople">
+<title>On Thin Ice: Jade's Polar Dream</title>
+</programme>
+<programme start="20200923092000 +0700" stop="20200923094500 +0700" channel="natgeopeople">
+<title>Masters Of Taste, Ep 16</title>
+</programme>
+<programme start="20200923094500 +0700" stop="20200923101000 +0700" channel="natgeopeople">
+<title>Masters Of Taste, Ep 15</title>
+</programme>
+<programme start="20200923101000 +0700" stop="20200923103500 +0700" channel="natgeopeople">
+<title>D. Rocco's Dolce India, Ep 9</title>
+</programme>
+<programme start="20200923103500 +0700" stop="20200923110000 +0700" channel="natgeopeople">
+<title>D. Rocco's Dolce India, Ep 10</title>
+</programme>
+<programme start="20200923110000 +0700" stop="20200923115000 +0700" channel="natgeopeople">
+<title>Log Cabin Fever, Ep 10</title>
+</programme>
+<programme start="20200923115000 +0700" stop="20200923121500 +0700" channel="natgeopeople">
+<title>Brojects: For Weekend, Ep 3</title>
+</programme>
+<programme start="20200923121500 +0700" stop="20200923124000 +0700" channel="natgeopeople">
+<title>United Plates Of America, Ep 10</title>
+</programme>
+<programme start="20200923124000 +0700" stop="20200923130500 +0700" channel="natgeopeople">
+<title>Miguel's Tropical..., Ep 3</title>
+</programme>
+<programme start="20200923130500 +0700" stop="20200923133000 +0700" channel="natgeopeople">
+<title>A Taste Of South Africa, Ep 1</title>
+</programme>
+<programme start="20200923133000 +0700" stop="20200923142000 +0700" channel="natgeopeople">
+<title>Ugly House To Lovely..., Ep 1</title>
+</programme>
+<programme start="20200923142000 +0700" stop="20200923151000 +0700" channel="natgeopeople">
+<title>On Thin Ice: Jade's Polar Dream</title>
+</programme>
+<programme start="20200923151000 +0700" stop="20200923153500 +0700" channel="natgeopeople">
+<title>Masters Of Taste, Ep 16</title>
+</programme>
+<programme start="20200923153500 +0700" stop="20200923160000 +0700" channel="natgeopeople">
+<title>Masters Of Taste, Ep 15</title>
+</programme>
+<programme start="20200923160000 +0700" stop="20200923162500 +0700" channel="natgeopeople">
+<title>D. Rocco's Dolce India, Ep 9</title>
+</programme>
+<programme start="20200923162500 +0700" stop="20200923165000 +0700" channel="natgeopeople">
+<title>D. Rocco's Dolce India, Ep 10</title>
+</programme>
+<programme start="20200923165000 +0700" stop="20200923174500 +0700" channel="natgeopeople">
+<title>Log Cabin Fever, Ep 11</title>
+</programme>
+<programme start="20200923174500 +0700" stop="20200923181000 +0700" channel="natgeopeople">
+<title>Brojects: For Weekend, Ep 4</title>
+</programme>
+<programme start="20200923181000 +0700" stop="20200923184000 +0700" channel="natgeopeople">
+<title>United Plates Of America, Ep 11</title>
+</programme>
+<programme start="20200923184000 +0700" stop="20200923190500 +0700" channel="natgeopeople">
+<title>Miguel's Tropical..., Ep 8</title>
+</programme>
+<programme start="20200923190500 +0700" stop="20200923193500 +0700" channel="natgeopeople">
+<title>Island Feast, Ep 8</title>
+</programme>
+<programme start="20200923193500 +0700" stop="20200923203000 +0700" channel="natgeopeople">
+<title>Ugly House To Lovely..., Ep 2</title>
+</programme>
+<programme start="20200923203000 +0700" stop="20200923205500 +0700" channel="natgeopeople">
+<title>Fish Of The Day, Ep 4</title>
+</programme>
+<programme start="20200923205500 +0700" stop="20200923222000 +0700" channel="natgeopeople">
+<title>The Longest Hole: Mongolia</title>
+</programme>
+<programme start="20200923222000 +0700" stop="20200923224500 +0700" channel="natgeopeople">
+<title>D. Rocco's Dolce India, Ep 11</title>
+</programme>
+<programme start="20200923224500 +0700" stop="20200923231500 +0700" channel="natgeopeople">
+<title>D. Rocco's Dolce India, Ep 12</title>
+</programme>
+<programme start="20200923231500 +0700" stop="20200924000000 +0700" channel="natgeopeople">
+<title>Log Cabin Fever, Ep 11</title>
+</programme>
+<programme start="20200923003000 +0700" stop="20200923013000 +0700" channel="natgeowild">
+<title>Photo Ark: Rarest Creatures</title>
+</programme>
+<programme start="20200923013000 +0700" stop="20200923023000 +0700" channel="natgeowild">
+<title>Wild Cambodia</title>
+</programme>
+<programme start="20200923023000 +0700" stop="20200923033000 +0700" channel="natgeowild">
+<title>Wild Indochina</title>
+</programme>
+<programme start="20200923033000 +0700" stop="20200923043000 +0700" channel="natgeowild">
+<title>Lion Kingdom: Punishment</title>
+</programme>
+<programme start="20200923043000 +0700" stop="20200923053000 +0700" channel="natgeowild">
+<title>Legendary Catch: River Jaguar</title>
+</programme>
+<programme start="20200923053000 +0700" stop="20200923063000 +0700" channel="natgeowild">
+<title>Night Hunters: Grass Owls</title>
+</programme>
+<programme start="20200923063000 +0700" stop="20200923073000 +0700" channel="natgeowild">
+<title>Photo Ark: Rarest Creatures</title>
+</programme>
+<programme start="20200923073000 +0700" stop="20200923083000 +0700" channel="natgeowild">
+<title>When Sharks...: Cape Jaws</title>
+</programme>
+<programme start="20200923083000 +0700" stop="20200923093000 +0700" channel="natgeowild">
+<title>Europe's New Wild: The Titans</title>
+</programme>
+<programme start="20200923093000 +0700" stop="20200923103000 +0700" channel="natgeowild">
+<title>Europe's New Wild: Missing Lynx</title>
+</programme>
+<programme start="20200923103000 +0700" stop="20200923113000 +0700" channel="natgeowild">
+<title>Jaguars Vs Crocs</title>
+</programme>
+<programme start="20200923113000 +0700" stop="20200923123000 +0700" channel="natgeowild">
+<title>When Sharks...: Cape Jaws</title>
+</programme>
+<programme start="20200923123000 +0700" stop="20200923133000 +0700" channel="natgeowild">
+<title>Europe's New Wild: The Titans</title>
+</programme>
+<programme start="20200923133000 +0700" stop="20200923143000 +0700" channel="natgeowild">
+<title>Europe's New Wild: Missing Lynx</title>
+</programme>
+<programme start="20200923143000 +0700" stop="20200923153000 +0700" channel="natgeowild">
+<title>Jaguars Vs Crocs</title>
+</programme>
+<programme start="20200923153000 +0700" stop="20200923163000 +0700" channel="natgeowild">
+<title>Lion Vs Giraffe</title>
+</programme>
+<programme start="20200923163000 +0700" stop="20200923173000 +0700" channel="natgeowild">
+<title>Cat Fight</title>
+</programme>
+<programme start="20200923173000 +0700" stop="20200923183000 +0700" channel="natgeowild">
+<title>Legendary Catch: Jungle Giant</title>
+</programme>
+<programme start="20200923183000 +0700" stop="20200923193000 +0700" channel="natgeowild">
+<title>Europe's New Wild: Missing Lynx</title>
+</programme>
+<programme start="20200923193000 +0700" stop="20200923203000 +0700" channel="natgeowild">
+<title>Europe's New Wild: Bears</title>
+</programme>
+<programme start="20200923203000 +0700" stop="20200923213000 +0700" channel="natgeowild">
+<title>Kingdom Of Apes: Battle Lines</title>
+</programme>
+<programme start="20200923213000 +0700" stop="20200923223000 +0700" channel="natgeowild">
+<title>Lion Gangland</title>
+</programme>
+<programme start="20200923223000 +0700" stop="20200923233000 +0700" channel="natgeowild">
+<title>Man Vs Monster: Amazon Terror</title>
+</programme>
+<programme start="20200923233000 +0700" stop="20200924000000 +0700" channel="natgeowild">
+<title>Europe's New Wild: Missing Lynx</title>
+</programme>
+<programme start="20200923000000 +0700" stop="20200923010000 +0700" channel="net">
+<title>One Championship Warrior</title>
+</programme>
+<programme start="20200923010000 +0700" stop="20200923023000 +0700" channel="net">
+<title>The Comment</title>
+</programme>
+<programme start="20200923023000 +0700" stop="20200923033000 +0700" channel="net">
+<title>Nyonya Nunung</title>
+</programme>
+<programme start="20200923033000 +0700" stop="20200923043000 +0700" channel="net">
+<title>86</title>
+</programme>
+<programme start="20200923043000 +0700" stop="20200923050000 +0700" channel="net">
+<title>Muslim Travelers</title>
+</programme>
+<programme start="20200923050000 +0700" stop="20200923060000 +0700" channel="net">
+<title>Suami-Suami Takut Istri</title>
+</programme>
+<programme start="20200923060000 +0700" stop="20200923063000 +0700" channel="net">
+<title>True And The Rainbow Kingdom</title>
+</programme>
+<programme start="20200923063000 +0700" stop="20200923080000 +0700" channel="net">
+<title>Kontes Binatang Terlucu</title>
+</programme>
+<programme start="20200923080000 +0700" stop="20200923090000 +0700" channel="net">
+<title>Kelas Internasional</title>
+</programme>
+<programme start="20200923090000 +0700" stop="20200923093000 +0700" channel="net">
+<title>Potret Selebriti</title>
+</programme>
+<programme start="20200923093000 +0700" stop="20200923103000 +0700" channel="net">
+<title>TikTokan</title>
+</programme>
+<programme start="20200923103000 +0700" stop="20200923110000 +0700" channel="net">
+<title>I Pop</title>
+</programme>
+<programme start="20200923110000 +0700" stop="20200923113000 +0700" channel="net">
+<title>Like It</title>
+</programme>
+<programme start="20200923113000 +0700" stop="20200923120000 +0700" channel="net">
+<title>Teman Panji</title>
+</programme>
+<programme start="20200923120000 +0700" stop="20200923130000 +0700" channel="net">
+<title>Berkunjung Ke Gubuk Kayu</title>
+</programme>
+<programme start="20200923130000 +0700" stop="20200923140000 +0700" channel="net">
+<title>Tenaga Man Boy</title>
+</programme>
+<programme start="20200923140000 +0700" stop="20200923150000 +0700" channel="net">
+<title>Pesta Untuk Raja</title>
+</programme>
+<programme start="20200923150000 +0700" stop="20200923160000 +0700" channel="net">
+<title>Diary Bahagia</title>
+</programme>
+<programme start="20200923160000 +0700" stop="20200923170000 +0700" channel="net">
+<title>The Return Of Superman</title>
+</programme>
+<programme start="20200923170000 +0700" stop="20200923180000 +0700" channel="net">
+<title>Still 17</title>
+</programme>
+<programme start="20200923180000 +0700" stop="20200923193000 +0700" channel="net">
+<title>Like It</title>
+</programme>
+<programme start="20200923193000 +0700" stop="20200923210000 +0700" channel="net">
+<title>Tawa-Tawa Santai</title>
+</programme>
+<programme start="20200923210000 +0700" stop="20200923220000 +0700" channel="net">
+<title>Tonight Show</title>
+</programme>
+<programme start="20200923220000 +0700" stop="20200923230000 +0700" channel="net">
+<title>Malam-Malam</title>
+</programme>
+<programme start="20200923230000 +0700" stop="20200924000000 +0700" channel="net">
+<title>86</title>
+</programme>
+<programme start="20200923013000 +0700" stop="20200923014500 +0700" channel="rcti">
+<title>Terjaring Cinta Nelayan Cantik</title>
+</programme>
+<programme start="20200923014500 +0700" stop="20200923020000 +0700" channel="rcti">
+<title>MNC Shop</title>
+</programme>
+<programme start="20200923020000 +0700" stop="20200923023000 +0700" channel="rcti">
+<title>Terjaring Cinta Nelayan Cantik</title>
+</programme>
+<programme start="20200923023000 +0700" stop="20200923030000 +0700" channel="rcti">
+<title>Delik</title>
+</programme>
+<programme start="20200923030000 +0700" stop="20200923034500 +0700" channel="rcti">
+<title>Tarzan Betawi</title>
+</programme>
+<programme start="20200923034500 +0700" stop="20200923040000 +0700" channel="rcti">
+<title>Kultum</title>
+</programme>
+<programme start="20200923040000 +0700" stop="20200923053000 +0700" channel="rcti">
+<title>Seputar iNews Pagi (L)</title>
+</programme>
+<programme start="20200923053000 +0700" stop="20200923061500 +0700" channel="rcti">
+<title>Sergap</title>
+</programme>
+<programme start="20200923061500 +0700" stop="20200923070000 +0700" channel="rcti">
+<title>Go Spot</title>
+</programme>
+<programme start="20200923070000 +0700" stop="20200923081500 +0700" channel="rcti">
+<title>Pertarungan Nobita Yang...</title>
+</programme>
+<programme start="20200923081500 +0700" stop="20200923094500 +0700" channel="rcti">
+<title>Dahsyatnya 2020</title>
+</programme>
+<programme start="20200923094500 +0700" stop="20200923111500 +0700" channel="rcti">
+<title>Silet</title>
+</programme>
+<programme start="20200923111500 +0700" stop="20200923121500 +0700" channel="rcti">
+<title>Seputar iNews Siang (L)</title>
+</programme>
+<programme start="20200923121500 +0700" stop="20200923133000 +0700" channel="rcti">
+<title>Si Doel Anak Sekolahan S2</title>
+</programme>
+<programme start="20200923133000 +0700" stop="20200923151500 +0700" channel="rcti">
+<title>Preman Pensiun S4</title>
+</programme>
+<programme start="20200923151500 +0700" stop="20200923161500 +0700" channel="rcti">
+<title>Aku Bukan Ustadz</title>
+</programme>
+<programme start="20200923161500 +0700" stop="20200923173000 +0700" channel="rcti">
+<title>Tukang Ojek Pengkolan</title>
+</programme>
+<programme start="20200923173000 +0700" stop="20200923183000 +0700" channel="rcti">
+<title>Perempuan Pilihan</title>
+</programme>
+<programme start="20200923183000 +0700" stop="20200923200000 +0700" channel="rcti">
+<title>Putri Untuk Pangeran</title>
+</programme>
+<programme start="20200923200000 +0700" stop="20200923213000 +0700" channel="rcti">
+<title>Amanah Wali S4</title>
+</programme>
+<programme start="20200923213000 +0700" stop="20200923233000 +0700" channel="rcti">
+<title>Dunia Terbalik</title>
+</programme>
+<programme start="20200923233000 +0700" stop="20200924000000 +0700" channel="rcti">
+<title>Sule Cintaku Di Makan Cacing</title>
+</programme>
+<programme start="20200923014500 +0700" stop="20200923040000 +0700" channel="sctv">
+<title>SCTV</title>
+</programme>
+<programme start="20200923040000 +0700" stop="20200923043000 +0700" channel="sctv">
+<title>Indahnya Kebersamaan</title>
+</programme>
+<programme start="20200923043000 +0700" stop="20200923060000 +0700" channel="sctv">
+<title>Liputan 6 Pagi</title>
+</programme>
+<programme start="20200923060000 +0700" stop="20200923063000 +0700" channel="sctv">
+<title>Halo Selebriti</title>
+</programme>
+<programme start="20200923063000 +0700" stop="20200923081500 +0700" channel="sctv">
+<title>FTV Pagi Spesial</title>
+</programme>
+<programme start="20200923081500 +0700" stop="20200923100000 +0700" channel="sctv">
+<title>FTV Pagi Spesial</title>
+</programme>
+<programme start="20200923100000 +0700" stop="20200923120000 +0700" channel="sctv">
+<title>FTV Pagi</title>
+</programme>
+<programme start="20200923120000 +0700" stop="20200923123000 +0700" channel="sctv">
+<title>Liputan 6 Siang</title>
+</programme>
+<programme start="20200923123000 +0700" stop="20200923141500 +0700" channel="sctv">
+<title>BTW (By The Way)</title>
+</programme>
+<programme start="20200923141500 +0700" stop="20200923154500 +0700" channel="sctv">
+<title>Jodoh Yang Tertukar</title>
+</programme>
+<programme start="20200923154500 +0700" stop="20200923164500 +0700" channel="sctv">
+<title>Magic Tumbler</title>
+</programme>
+<programme start="20200923164500 +0700" stop="20200923181500 +0700" channel="sctv">
+<title>Cinta Tapi Benci</title>
+</programme>
+<programme start="20200923181500 +0700" stop="20200923200000 +0700" channel="sctv">
+<title>Dari Jendela SMP</title>
+</programme>
+<programme start="20200923200000 +0700" stop="20200923214500 +0700" channel="sctv">
+<title>Samudra Cinta</title>
+</programme>
+<programme start="20200923214500 +0700" stop="20200923231500 +0700" channel="sctv">
+<title>Istri Kedua</title>
+</programme>
+<programme start="20200923231500 +0700" stop="20200924000000 +0700" channel="sctv">
+<title>FTV Primetime</title>
+</programme>
+<programme start="20200923000000 +0700" stop="20200923013000 +0700" channel="trans7">
+<title>Theater Malam</title>
+</programme>
+<programme start="20200923013000 +0700" stop="20200923023000 +0700" channel="trans7">
+<title>Apa Kata Dunia</title>
+</programme>
+<programme start="20200923023000 +0700" stop="20200923031500 +0700" channel="trans7">
+<title>Gara-Gara Magic</title>
+</programme>
+<programme start="20200923031500 +0700" stop="20200923034500 +0700" channel="trans7">
+<title>Siapa Peduli</title>
+</programme>
+<programme start="20200923034500 +0700" stop="20200923041500 +0700" channel="trans7">
+<title>The Jungle Bunch</title>
+</programme>
+<programme start="20200923041500 +0700" stop="20200923044500 +0700" channel="trans7">
+<title>Monchhichi</title>
+</programme>
+<programme start="20200923044500 +0700" stop="20200923053000 +0700" channel="trans7">
+<title>Treasure Trekkers</title>
+</programme>
+<programme start="20200923053000 +0700" stop="20200923060000 +0700" channel="trans7">
+<title>Khazanah</title>
+</programme>
+<programme start="20200923060000 +0700" stop="20200923070000 +0700" channel="trans7">
+<title>Redaksi Pagi (L)</title>
+</programme>
+<programme start="20200923070000 +0700" stop="20200923073000 +0700" channel="trans7">
+<title>Ragam Indonesia</title>
+</programme>
+<programme start="20200923073000 +0700" stop="20200923080000 +0700" channel="trans7">
+<title>Selebrita Pagi (L)</title>
+</programme>
+<programme start="20200923080000 +0700" stop="20200923083000 +0700" channel="trans7">
+<title>Trending</title>
+</programme>
+<programme start="20200923083000 +0700" stop="20200923090000 +0700" channel="trans7">
+<title>Warga +62</title>
+</programme>
+<programme start="20200923090000 +0700" stop="20200923093000 +0700" channel="trans7">
+<title>Kisah Nabi Musa</title>
+</programme>
+<programme start="20200923093000 +0700" stop="20200923100000 +0700" channel="trans7">
+<title>Petualangan Si Unyil</title>
+</programme>
+<programme start="20200923100000 +0700" stop="20200923103000 +0700" channel="trans7">
+<title>Kepopedia</title>
+</programme>
+<programme start="20200923103000 +0700" stop="20200923110000 +0700" channel="trans7">
+<title>Bapau</title>
+</programme>
+<programme start="20200923110000 +0700" stop="20200923113000 +0700" channel="trans7">
+<title>Selebrita Siang (L)</title>
+</programme>
+<programme start="20200923113000 +0700" stop="20200923120000 +0700" channel="trans7">
+<title>Redaksi CNN Siang (L)</title>
+</programme>
+<programme start="20200923120000 +0700" stop="20200923123000 +0700" channel="trans7">
+<title>Si Unyil</title>
+</programme>
+<programme start="20200923123000 +0700" stop="20200923130000 +0700" channel="trans7">
+<title>Bocah Petualang</title>
+</programme>
+<programme start="20200923130000 +0700" stop="20200923133000 +0700" channel="trans7">
+<title>Si Otan</title>
+</programme>
+<programme start="20200923133000 +0700" stop="20200923141500 +0700" channel="trans7">
+<title>Tau Gak Sih?</title>
+</programme>
+<programme start="20200923141500 +0700" stop="20200923150000 +0700" channel="trans7">
+<title>Jejak Petualang</title>
+</programme>
+<programme start="20200923150000 +0700" stop="20200923160000 +0700" channel="trans7">
+<title>Redaksi Sore (L)</title>
+</programme>
+<programme start="20200923160000 +0700" stop="20200923164500 +0700" channel="trans7">
+<title>Jejak Si Gundul</title>
+</programme>
+<programme start="20200923164500 +0700" stop="20200923171500 +0700" channel="trans7">
+<title>Makan Receh</title>
+</programme>
+<programme start="20200923171500 +0700" stop="20200923180000 +0700" channel="trans7">
+<title>Seleb Expose</title>
+</programme>
+<programme start="20200923180000 +0700" stop="20200923190000 +0700" channel="trans7">
+<title>Okay Bos</title>
+</programme>
+<programme start="20200923190000 +0700" stop="20200923200000 +0700" channel="trans7">
+<title>On The Spot</title>
+</programme>
+<programme start="20200923200000 +0700" stop="20200923213000 +0700" channel="trans7">
+<title>Mata Najwa</title>
+</programme>
+<programme start="20200923213000 +0700" stop="20200923230000 +0700" channel="trans7">
+<title>Opera Van Java</title>
+</programme>
+<programme start="20200923230000 +0700" stop="20200924000000 +0700" channel="trans7">
+<title>The Police</title>
+</programme>
+<programme start="20200923013000 +0700" stop="20200923020000 +0700" channel="transtv">
+<title>Program Dini Hari</title>
+</programme>
+<programme start="20200923020000 +0700" stop="20200923030000 +0700" channel="transtv">
+<title>CNN Connected</title>
+</programme>
+<programme start="20200923030000 +0700" stop="20200923043000 +0700" channel="transtv">
+<title>Program Dini Hari</title>
+</programme>
+<programme start="20200923043000 +0700" stop="20200923050000 +0700" channel="transtv">
+<title>Program Dini Hari</title>
+</programme>
+<programme start="20200923050000 +0700" stop="20200923063000 +0700" channel="transtv">
+<title>Islam Itu Indah</title>
+</programme>
+<programme start="20200923063000 +0700" stop="20200923073000 +0700" channel="transtv">
+<title>Insert Pagi (L)</title>
+</programme>
+<programme start="20200923073000 +0700" stop="20200923083000 +0700" channel="transtv">
+<title>CNN Indonesia Good Morning</title>
+</programme>
+<programme start="20200923083000 +0700" stop="20200923100000 +0700" channel="transtv">
+<title>W: Two Worlds Apart</title>
+</programme>
+<programme start="20200923100000 +0700" stop="20200923110000 +0700" channel="transtv">
+<title>Nih Kita Kepo</title>
+</programme>
+<programme start="20200923110000 +0700" stop="20200923113000 +0700" channel="transtv">
+<title>Safana</title>
+</programme>
+<programme start="20200923113000 +0700" stop="20200923123000 +0700" channel="transtv">
+<title>Insert Siang</title>
+</programme>
+<programme start="20200923123000 +0700" stop="20200923140000 +0700" channel="transtv">
+<title>Brownis (Obrowlan Manis)</title>
+</programme>
+<programme start="20200923140000 +0700" stop="20200923150000 +0700" channel="transtv">
+<title>Rumpi: No Secret (L)</title>
+</programme>
+<programme start="20200923150000 +0700" stop="20200923160000 +0700" channel="transtv">
+<title>Insert Today</title>
+</programme>
+<programme start="20200923160000 +0700" stop="20200923170000 +0700" channel="transtv">
+<title>CNN Indonesia News Update</title>
+</programme>
+<programme start="20200923170000 +0700" stop="20200923180000 +0700" channel="transtv">
+<title>Bikin Laper</title>
+</programme>
+<programme start="20200923180000 +0700" stop="20200923203000 +0700" channel="transtv">
+<title>HUT Insert 17th Anniversary</title>
+</programme>
+<programme start="20200923203000 +0700" stop="20200923220000 +0700" channel="transtv">
+<title>CNN Indonesia Prime News</title>
+</programme>
+<programme start="20200923220000 +0700" stop="20200924000000 +0700" channel="transtv">
+<title>Bioskop Trans TV</title>
+</programme>
+<programme start="20200923000000 +0700" stop="20200923034500 +0700" channel="tvri">
+<title>Doa Untuk Bangsa</title>
+</programme>
+<programme start="20200923034500 +0700" stop="20200923040000 +0700" channel="tvri">
+<title>Pola Teknik</title>
+</programme>
+<programme start="20200923040000 +0700" stop="20200923043000 +0700" channel="tvri">
+<title>Jejak Islam</title>
+</programme>
+<programme start="20200923043000 +0700" stop="20200923060000 +0700" channel="tvri">
+<title>Serambi Islami</title>
+</programme>
+<programme start="20200923060000 +0700" stop="20200923070000 +0700" channel="tvri">
+<title>Klik Indonesia Pagi</title>
+</programme>
+<programme start="20200923070000 +0700" stop="20200923073000 +0700" channel="tvri">
+<title>Salam Olahraga</title>
+</programme>
+<programme start="20200923073000 +0700" stop="20200923080000 +0700" channel="tvri">
+<title>Ruang Demokrasi</title>
+</programme>
+<programme start="20200923080000 +0700" stop="20200923083000 +0700" channel="tvri">
+<title>Belajar Dari Rumah</title>
+</programme>
+<programme start="20200923083000 +0700" stop="20200923090000 +0700" channel="tvri">
+<title>Belajar Dari Rumah</title>
+</programme>
+<programme start="20200923090000 +0700" stop="20200923090300 +0700" channel="tvri">
+<title>Info Terkini</title>
+</programme>
+<programme start="20200923090300 +0700" stop="20200923093000 +0700" channel="tvri">
+<title>Belajar Dari Rumah</title>
+</programme>
+<programme start="20200923093000 +0700" stop="20200923100500 +0700" channel="tvri">
+<title>Belajar Dari Rumah</title>
+</programme>
+<programme start="20200923100500 +0700" stop="20200923103000 +0700" channel="tvri">
+<title>Belajar Dari Rumah</title>
+</programme>
+<programme start="20200923103000 +0700" stop="20200923110000 +0700" channel="tvri">
+<title>Belajar Dari Rumah</title>
+</programme>
+<programme start="20200923110000 +0700" stop="20200923110300 +0700" channel="tvri">
+<title>Info Terkini</title>
+</programme>
+<programme start="20200923110300 +0700" stop="20200923113000 +0700" channel="tvri">
+<title>Badanamu Cadets</title>
+</programme>
+<programme start="20200923113000 +0700" stop="20200923120000 +0700" channel="tvri">
+<title>The Train</title>
+</programme>
+<programme start="20200923120000 +0700" stop="20200923130000 +0700" channel="tvri">
+<title>Klik Indonesia Siang</title>
+</programme>
+<programme start="20200923130000 +0700" stop="20200923133000 +0700" channel="tvri">
+<title>Inovator</title>
+</programme>
+<programme start="20200923133000 +0700" stop="20200923140000 +0700" channel="tvri">
+<title>Inspirasi Tani</title>
+</programme>
+<programme start="20200923140000 +0700" stop="20200923140300 +0700" channel="tvri">
+<title>Info Terkini</title>
+</programme>
+<programme start="20200923140300 +0700" stop="20200923150000 +0700" channel="tvri">
+<title>Indonesia Sehat</title>
+</programme>
+<programme start="20200923150000 +0700" stop="20200923150300 +0700" channel="tvri">
+<title>Info Terkini</title>
+</programme>
+<programme start="20200923150300 +0700" stop="20200923153000 +0700" channel="tvri">
+<title>Pesona Indonesia</title>
+</programme>
+<programme start="20200923153000 +0700" stop="20200923160000 +0700" channel="tvri">
+<title>Inspirasi Indonesia</title>
+</programme>
+<programme start="20200923160000 +0700" stop="20200923170000 +0700" channel="tvri">
+<title>Info Terkini COVID 19</title>
+</programme>
+<programme start="20200923170000 +0700" stop="20200923173000 +0700" channel="tvri">
+<title>Mimbar Agama Hindu</title>
+</programme>
+<programme start="20200923173000 +0700" stop="20200923180000 +0700" channel="tvri">
+<title>English News Service</title>
+</programme>
+<programme start="20200923180000 +0700" stop="20200923190000 +0700" channel="tvri">
+<title>Klik Indonesia Malam</title>
+</programme>
+<programme start="20200923190000 +0700" stop="20200923200000 +0700" channel="tvri">
+<title>Indonesia Bicara</title>
+</programme>
+<programme start="20200923200000 +0700" stop="20200923200300 +0700" channel="tvri">
+<title>Info Terkini</title>
+</programme>
+<programme start="20200923200300 +0700" stop="20200923210000 +0700" channel="tvri">
+<title>Musik Indonesia</title>
+</programme>
+<programme start="20200923210000 +0700" stop="20200923213000 +0700" channel="tvri">
+<title>Dunia Dalam Berita</title>
+</programme>
+<programme start="20200923213000 +0700" stop="20200923233000 +0700" channel="tvri">
+<title>MNC Shop</title>
+</programme>
+<programme start="20200923233000 +0700" stop="20200924000000 +0700" channel="tvri">
+<title>Paket Acara Terpadu</title>
+</programme>
+</tv>
